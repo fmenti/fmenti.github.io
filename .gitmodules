@@ -1,0 +1,3 @@
+[submodule "starterpack/themes/barks"]
+	path = starterpack/themes/barks
+	url = http://github.com/timothygebhard/barks
