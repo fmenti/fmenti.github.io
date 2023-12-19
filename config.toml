@@ -34,7 +34,7 @@ title = "Franziska Menti"
         author = "Franziska Menti"
         custom_css = ""
         description = "Hi, I'm Franziska, and this is my website!"
-        keywords = ["some", "keywords", "to", "describe", "this"]
+        keywords = ["Franziska", "Menti", "LIFE"]
 
     [params.navigation]
         show_navigation = true
