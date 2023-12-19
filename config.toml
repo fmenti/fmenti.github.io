@@ -1,0 +1,93 @@
+
+# Global options
+baseURL = "/"
+canonifyURLs = true
+#copyright = "© 2021 by Carl Barks. <a href='/privacy'>Privacy policy</a>."
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en"
+theme = "barks"
+title = "Franziska Menti"
+
+
+
+# Main menu
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications"
+    weight = 2
+#[[menu.main]]
+#    name = "Autism"
+#    url  = "/autism"
+#    weight = 3
+#[[menu.main]]
+#    name = "Hobbies"
+#    url  = "/hobbies"
+#    weight = 4
+
+
+
+# Customization options
+[params]
+
+    [params.head]
+        author = "Franziska Menti"
+        custom_css = ""
+        description = "Hi, I'm Franziska, and this is my website!"
+        keywords = ["some", "keywords", "to", "describe", "this"]
+
+    [params.navigation]
+        show_navigation = true
+
+    [params.footer]
+        show_footer = true
+
+    [params.typography]
+        title_font = "Bree Serif"
+        body_font = "Source Sans Pro"
+
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#fcfbf9"
+        text_color = "#333333"
+        link_color = "#60c17d"
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:fmenti@ethz.ch"
+            weight = 1
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/fmenti"
+            weight = 2
+        [params.social.instagram]
+            name = "Instagram"
+            class = "fab fa-instagram"
+            url = "https://instagram.com/estrellamenti/"
+            weight = 5
+        [params.social.institution]
+            name = "My institution"
+            class = "fas fa-university"
+            url = "https://quanz-group.ethz.ch/people.html"
+            weight = 3
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://ch.linkedin.com/in/franziska-menti-baa3b7173/en"
+            weight = 4
+
+
+
+
+# Options for Markdown renderer
+[markup]
+
+    [markup.goldmark.renderer]
+        unsafe = true
+        xHTML = true
+
+    [markup.highlight]
+        style = 'dracula'
