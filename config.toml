@@ -20,10 +20,10 @@ title = "Franziska Menti"
 #    name = "Autism"
 #    url  = "/autism"
 #    weight = 3
-#[[menu.main]]
-#    name = "Hobbies"
-#    url  = "/hobbies"
-#    weight = 4
+[[menu.main]]
+    name = "Hobbies"
+    url  = "/hobbies"
+    weight = 4
 
 
 
