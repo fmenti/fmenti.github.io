@@ -3,27 +3,47 @@
 baseURL = "/"
 canonifyURLs = true
 #copyright = "© 2021 by Carl Barks. <a href='/privacy'>Privacy policy</a>."
-defaultContentLanguage = "en"
+
 disableKinds = ["taxonomy", "taxonomyTerm"]
-languageCode = "en"
 theme = "barks"
-title = "Franziska Menti"
 
+#Languages
 
-
-# Main menu
-[[menu.main]]
-    name = "Publications"
-    url  = "/publications"
-    weight = 2
-#[[menu.main]]
-#    name = "Autism"
-#    url  = "/autism"
-#    weight = 3
-[[menu.main]]
-    name = "Hobbies"
-    url  = "/hobbies"
-    weight = 4
+languageCode = 'en-us'
+title = 'Franziska Menti'
+[languages]
+  [languages.en]
+    languageName = 'English'
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = "Publications"
+        pageRef  = "/publications"
+        weight = 2
+    # [[languages.en.menus.main]]
+    #    name = "Autism"
+    #    url  = "/autism"
+    #    weight = 3
+      [[languages.en.menus.main]]
+        name = "Hobbies"
+        pageRef  = "/hobbies"
+        weight = 4
+  [languages.de]
+    languageCode = 'de-DE'
+    languageName = 'Deutsch'
+    title = 'Franziska Menti'
+    [languages.de.menus]
+      [[languages.de.menus.main]]
+        name = "Publikationen"
+        pageRef  = "/publications"
+        weight = 2
+    # [[languages.de.menus.main]]
+    #    name = "Autism"
+    #    url  = "/autism"
+    #    weight = 3
+      [[languages.de.menus.main]]
+        name = "Hobbies"
+        pageRef  = "/hobbies"
+        weight = 4
 
 
 
@@ -91,3 +111,4 @@ title = "Franziska Menti"
 
     [markup.highlight]
         style = 'dracula'
+

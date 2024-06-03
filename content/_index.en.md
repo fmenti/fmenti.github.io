@@ -3,7 +3,7 @@ layout: landing_page
 image: FranziskaMenti.jpg
 ---
 
-Hi, I'm Franziska! 👋
+Hi, I'm Franziska Menti! 👋
 
 I am a research software engineer in astrophysics at ETH Zurich where I work in the exoplanets and habitability group of Prof. Sascha Quanz.
 Most of my research is driven by designing and implementing the [LIFE](https://life-space-mission.com/) (Large Interferometer For Exoplanets) target database.

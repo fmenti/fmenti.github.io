@@ -21,15 +21,24 @@ Let's first cover the four most important questions about what this guide is abo
 **Who?** I live together with my 15 year old cat Estrella and my 3 years old dog Nayla. My knowledge about cat training comes from watching animal training tv series for decades as well as training my own cat.    
 
 ### The Basics
-#### The reward
+#### The Reward
 First you need to find out what motivates your cat for training. It is easiest, if the cat is food motivated but there area alternatives such as vocal praise, brushing, playing etc. If you are not sure which is your cat's favorite treat lay out an assortment of them on a plate and observe which of the treats it eats first. Best you do this test twice with the treats in different distribution because some cats just eat what is nearest to them first while others are more picky. 
+
+#### Cat Perception and Thinking
+Cats perceive the world different than humans. From an evolutionary standpoint they are both fierce predators and small enough to be at risk of getting preyed on themselves.
+
+#### The First Trick
 
 (To be continued)
 
-### Leash walking
+### Further Training
+
+#### Medical training
+
+#### Leash Walking
 I post pictures of my cat walks on instagram. Feel free to have a look at them by clicking on the instagram symbol at the bottom of this page.
 
-#### Equipment
+##### Equipment
 
 (To be continued)
 
@@ -41,5 +50,6 @@ I post pictures of my cat walks on instagram. Feel free to have a look at them b
 
 ### Links for further reading
 
+* hundestunde podcast
 (To be continued)
 
