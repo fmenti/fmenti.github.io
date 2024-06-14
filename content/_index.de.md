@@ -1,6 +1,6 @@
 ---
 layout: landing_page
-image: FranziskaMenti.jpg
+image: FranziskaMenti.de.jpg
 ---
 
 Hallo, ich bin Franziska Menti! 👋

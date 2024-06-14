@@ -43,6 +43,7 @@ Ich poste Bilder von meinen Katzenspaziergängen auf instagram. Schauen Sie sich
 ##### Ausrüstung
 
 (Fortsetzung folgt)
+![Rucksack](/CatBackPack.jpeg)
 
 
 ### FAQ's

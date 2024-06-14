@@ -12,7 +12,9 @@
                     
                     {{- partial "header.html" . -}}
                     {{- partial "navigation.html" . -}}
-                    {{- partial "nav-bar.html" . -}}
+                    {{- partial "nav-bar.html" . -}} <!-- English, Deutsch dropdown prepared-->
+                    <!-- {{- partial "i18nlist.html" . -}} --> <!-- en: / de: -->
+                    <!-- {{- partial "allLanguages.html" . -}} --> <!-- English, Deutsch -->
                     
                     <main>
                         {{ block "main" . }} {{ end }}

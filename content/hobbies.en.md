@@ -42,6 +42,8 @@ I post pictures of my cat walks on instagram. Feel free to have a look at them b
 
 (To be continued)
 
+![Backpack](/CatBackPack.jpeg)
+
 
 ### FAQ's
 * **Why do you leash walk your cat?** For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs.
