@@ -5,6 +5,17 @@
     {{ range .Site.Menus.main }}
         <li><strong><a href="{{ .URL }}">{{ .Name }}</a></strong></li>
     {{ end }}
+    <li class="dropdown">
+    <!-- aria-expanded needs managed with Javascript -->
+      <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="sweets-dropdown">
+        DE/EN
+      </button>
+        <ul class="dropdown_menu" id="languages-dropdown"> 
+            {{ range $.Site.Home.AllTranslations }}
+            <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ end }}
+        </ul>
+    </li>
     </ul>
 </nav>
 {{ end }}

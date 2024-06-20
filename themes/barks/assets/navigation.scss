@@ -1,4 +1,3 @@
-
 nav {
 	margin-top: 1.5em;
     margin-bottom: 1em;
@@ -41,10 +40,11 @@ nav li {
     margin: 0;
 }
 
-nav li + li:before {
-    content: "●";
-    padding: 16px;
-}
+// removed this from the style as I did not like the dots
+//nav li + li:before {
+//    content: "●";
+//    padding: 16px;
+//}
 
 @media only screen and (max-width: 600px) {
 
@@ -65,3 +65,158 @@ nav li + li:before {
     }
     
 }
+
+/// started messing with stuff from here on 
+nav {
+  background-color: #eee;
+  padding: 0 1rem;
+  display: grid;
+  place-items: center;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+
+    li {
+      padding: 0;
+    }
+  }
+
+}
+
+nav {
+  // ...existing styles
+
+  > ul {
+    grid-auto-flow: column;
+
+    > li {
+      margin: 0 0.5rem;
+    }
+  }
+}
+
+// Clear native browser button styles
+.dropdown__title {
+  background-color: transparent;
+  border: none;
+  font-family: inherit;
+}
+
+nav {
+  > ul {
+
+    > li {
+      // All links contained in the li
+      a,
+      .dropdown__title {
+        text-decoration: none;
+        text-align: center;
+        display: inline-block;
+        color: $link-color;
+        font-size: 24px;//1.125rem;
+      }
+
+      // Only direct links contained in the li
+      > a,
+      .dropdown__title {
+        padding: 1rem 0.5rem;
+      }
+
+    }
+  }
+}
+
+//from here on it does not do what it is supposed to. the dropdown container does not get a new color, the navigator containor does not shrink, the dropdown does not get hidden.
+
+.dropdown {
+  position: relative;
+
+  .dropdown__menu {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0.15em 0.25em rgba(black, 0.25);
+    padding: 0.5em 0;
+    min-width: 15ch;
+
+    a {
+      color: #444;
+      display: block;
+      padding: 0.5em;
+    }
+  }
+}
+
+.dropdown__menu {
+  // ... existing styles
+
+  position: absolute;
+
+  // Pull up to overlap the parent list item very slightly
+  top: calc(100% - 0.25rem);
+  // Use the left from absolute position to shift the left side
+  left: 50%;
+  // Use translateX to shift the menu 50% of it's width back to the left 
+  transform: translateX(-50%);
+}
+
+.dropdown__menu {
+  // ... existing styles
+  transform: rotateX(-90deg) translateX(-50%);
+  transform-origin: top center;
+  opacity: 0.3;
+}
+
+.dropdown__menu {
+  // ... existing styles
+  transition: 280ms all ease-out;
+}
+
+.dropdown {
+  // ... existing styles
+
+  &:hover,
+  &:focus-within {
+
+    .dropdown__menu {
+      opacity: 1;
+      transform: rotateX(0) translateX(-50%);
+      visibility: visible;
+    } 
+
+  }
+
+}
+
+.dropdown__menu {
+  // ... existing styles
+  transition: 280ms all 120ms ease-out;
+}
+
+.dropdown {
+  // ... existing styles
+
+    .dropdown__title {
+      display: inline-flex;
+      align-items: center;
+
+      &:after {
+        content: "";
+        border: 0.35rem solid transparent;
+        border-top-color: rgba(blue, 0.45);
+        margin-left: 0.25em;
+        transform: translateY(0.15em);
+      }
+    }
+
+}
+
+
+
+
+
+
+
+

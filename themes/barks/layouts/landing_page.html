@@ -7,7 +7,8 @@
         </div>
     </div>
     <div class="landing-page-image">
-        <img src="{{ .Params.image }}" alt="{{ .Site.Params.header.title }}" width="221" height="331">
+    <a href="{{ .Permalink }}">
+            <img src="{{ .Params.image | relURL }}"  alt="{{ .Site.Params.header.title }}" width="221" height="331"></a>
     </div>
 </div>
 {{ end }}
