@@ -10,7 +10,7 @@
       <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="sweets-dropdown">
         DE/EN
       </button>
-        <ul class="dropdown_menu" id="languages-dropdown"> 
+        <ul class="dropdown__menu" id="languages-dropdown"> 
             {{ range $.Site.Home.AllTranslations }}
             <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
             {{ end }}
