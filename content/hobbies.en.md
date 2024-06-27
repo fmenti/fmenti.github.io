@@ -25,20 +25,42 @@ Let's first cover the four most important questions about what this guide is abo
 First you need to find out what motivates your cat for training. It is easiest, if the cat is food motivated but there area alternatives such as vocal praise, brushing, playing etc. If you are not sure which is your cat's favorite treat lay out an assortment of them on a plate and observe which of the treats it eats first. Best you do this test twice with the treats in different distribution because some cats just eat what is nearest to them first while others are more picky. 
 
 #### Cat Perception and Thinking
-Cats perceive the world different than humans. From an evolutionary standpoint they are both fierce predators and small enough to be at risk of getting preyed on themselves. This means they can get distracted by sensory stimuly initiating hunting or fight, flight or freeze responses. When training your cat be aware that there are many potential reasons why your cat is not understanding what you want it to do. Estrella often reacts to smells that I can't perceive. When she seems overly distracted I try walking with her to a different spot and asking her to do a basic trick just to check if she can concentrate better at the new location. 
+Cats perceive the world different than humans. From an evolutionary standpoint they are both fierce predators and small enough to be at risk of getting preyed on themselves. This means they can get distracted by sensory stimuly initiating hunting or fight, flight or freeze responses. When training your cat be aware that there are many potential reasons why your cat is not understanding what you want it to do. Estrella often reacts to smells that I can't perceive. When she seems overly distracted I try walking with her to a different spot and asking her to do a basic trick just to check if she can concentrate better at the new location. Cats also don't see the same way humans do. They are worse at color vision but better in detecting movement. If you want your cat to notice something try moving it a bit so it is easier for her to focus on it. Your cat will keep in memory the start and end of a training session the most. For that reason I recommend starting with something that is easy for your cat and ending when your cat enjoys itself the most. That way it will be very motivated when you start the next training session.
 
 (add picture of sniffing cat & fluffed up cat)
 
 #### The First Trick
-You might have heard of clicker training already. It is a form of training where the desired behaviour gets marked by a click from a clicker (or alternatively another sound e.g. what a retractable pen makes when engaged). This is then followed by a reward. The benefit of using a clicker instead of a verbal praise is that it always sounds the same. I have used clicker training and usually still do when teaching a new trick. However, I find it difficult to stick to it during normal training sessions. So my advise is to use it if you can but don't fret if you can't. If you do want to start using clicker training you should start by associating the click with the reward. Don't ask anything yet of your cat, simply click and right afterwards offer the reward. Do this a couple of times till when hearing the click your cat expects to be given the reward.
-Which kind of tricks your cat likes depends on it's character. Estrella loves jumping ones. It will be easier to train your cat those she offers on her own. Regardless, the first trick I would recommend is "Target". 
+You might have heard of clicker training already. It is a form of training where the desired behaviour gets marked by a click from a clicker (or alternatively another sound e.g. what a retractable pen makes when engaged). This is then followed by a reward. The benefit of using a clicker instead of a verbal praise is that it always sounds the same. I have used clicker training and usually still do when teaching a new trick. However, I find it difficult to stick to it during normal training sessions. So my advise is to use it if you can but don't fret if you can't. If you do want to start using clicker training you should start by associating the click with the reward. Don't ask anything yet of your cat, simply click and right afterwards offer the reward. Do this a couple of times till when hearing the click your cat expects to be given the reward. Now your cat knows **why** it should want to do what you ask of it during training. Next it needs to learn **what** you want it to do.
+Which kind of tricks your cat likes depends on it's character. Estrella loves jumping ones. It will be easier to train your cat those they offer on their own. Regardless, the first trick I would recommend is "Target". When training your cat it helps to do short training intervals (5-10 minutes) but having them multiple times throughout the day. 
+
+### Tricks
+
+#### Nose Target
+In this trick your cat learn to touch with its nose a target. As a target I use my extended pointing finger but you could chose a stick or another target if you prefer. You start by holding the target not far from your cat and clicking and rewarding any action of your cat towards the final goal of its nose touching the target. If your cat is curious it might right away walk to the target and sniff on it. In that case reward it right away and try if it will do it again. If your cat is more hesitant it most likely does not understand what you want of it. That is totally understandable. Instead of starting with the end goal of touch have the intermediate goal of your cat looking at the target. For that move the target a bit and click and reward your cat if it looks at the target. Once your cat has learned this you don't right away reward. Your cat will notice that it is not getting the reward as usual and try out what it can to to get at the reward. As soon as your cat makes a move in the direction of the target click and reward. It is important to be patient and to help your cat when it doesn't understand what it is supposed to do. If just waiting for it to try out stuff doesn't work try another approach. I sometimes have Estrella sitting there snorting once which I understand her to be annoyed at my poor teaching skills. In the trick above you might try putting some nice smell (food, catnip,...) on your target to encourage the right behaviour.
+
+(add picture of target trick)
+
+#### Jump
 
 (To be continued)
-(add picture of target trick)
+
+<figure>
+    <img src="/EstrellaJump.jpeg" widt="300" height="300" />
+</figure>
+
+#### High Five
+
+(To be continued)
+
+<figure>
+    <img src="/highfive.jpg" widt="300" height="300" />
+</figure>
 
 ### Further Training
 
 #### Medical training
+
+(To be continued)
 
 #### Leash Walking
 I post pictures of my cat walks on instagram. Feel free to have a look at them by clicking on the instagram symbol at the bottom of this page.
@@ -47,15 +69,15 @@ I post pictures of my cat walks on instagram. Feel free to have a look at them b
 
 Please don't just expose your cat to the following objects. They need to be introduced slowly and positively.
 
-* A harness: Make sure it 
-* A leash: 
+* A harness: Make sure it has broad enough strings to not strangle your cat when it suddenly moves into it with force e.g. when id does one of those one meter leaps from getting scared.
+* A leash: I have a thin 3 meter leash where I decide depending on the situation if I keep her close to me or let her have the full lenght.
 * A save container for putting the cat into when there is danger around e.g. unknown off leash dog. I like to use this backpack because I can also easily carry Estrella to nice places with her and start our walk there.
 
 <figure>
     <img src="/CatBackPack.jpeg" widt="300" height="300" />
 </figure>
 
-* A jacket or a towel: 
+* A jacket or a towel: If your cat gets scared you might no longer be able to touch it without getting bitten or scratched. If in such a situation you still need to do it because you need to for example get her out of a dangerous situation I like having a towel I can wrap my cat in or alternatively a jacket do so so. That way we both are reasonably save.
 
 (To be continued)
 
