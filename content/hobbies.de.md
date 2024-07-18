@@ -41,7 +41,7 @@ Bei diesem Trick lernt Ihre Katze, mit ihrer Nase ein Ziel zu berühren. Als Zie
 
 (Fortsetzung folgt)
 
-<Figur>
+<figur>
     <img src="/EstrellaJump.jpeg" widt="300" height="300" />
 </figure>
 
@@ -84,7 +84,6 @@ Bitte setzen Sie Ihre Katze nicht einfach den folgenden Gegenständen aus. Sie m
 
 
 ### FAQ's
-**Warum führen Sie Ihre Katze an der Leine aus?** 
 **Können nur junge Katzen Tricks oder das Gehen an der Leine lernen?** Katzen können ihr ganzes Leben lang neue Dinge lernen, genau wie Menschen. Natürlich ist es einfacher, neue Dinge zu lernen, wenn man jünger ist, aber das bedeutet nicht, dass wir aufhören sollten, es zu versuchen, wenn wir älter werden.
 
 
