@@ -16,7 +16,7 @@ On my daily cat walks I often get asked, how one teaches a cat to walk on a leas
 Let's first cover the four most important questions about what this guide is about:
 
 **What?** Training your cat from small tricks to more difficult ones like leash walking.   
-**Why?** Training your cat will give it a sense of accomplishment, strenghten your bond, combat boredom.   
+**Why?** Training your cat will give it a sense of accomplishment, strenghten your bond and combat boredom.   
 **How?** Cat training is like learning to play an instrument. You have to invest time repeatedly and make sure you start with the basics before trying out something difficult. I will guide you through the individual steps.   
 **Who?** I live together with my 15 year old cat Estrella and my 3 years old dog Nayla. My knowledge about cat training comes from watching animal training tv series for decades as well as training my own cat.    
 
@@ -40,9 +40,13 @@ In this trick your cat learn to touch with its nose a target. As a target I use 
 
 (add picture of target trick)
 
+#### Follow
+
+Move your hand with some treat in it away from your cat. If she follows the hand, give her the treat. With training you can increase the time your cat needs to follow before it get the reward. 
+
 #### Jump
 
-(To be continued)
+Estrella likes jumping over obstacles. I started by using small obstacles and having Estrella follow my hand over them.
 
 <figure>
     <img src="/EstrellaJump.jpeg" widt="300" height="300" />
@@ -58,12 +62,14 @@ In this trick your cat learn to touch with its nose a target. As a target I use 
 
 ### Further Training
 
+Till now all tricks were just for fun without any further objectives. You can, however, also use training to make difficult situations (e.g. vet visits) less stressfull or to get save access to the outdoors.
+
 #### Medical training
 
-(To be continued)
+Medical training can be very beneficial for your cat's health. It encompases training to tolerate handling for medical purposes, enables early detection of symptoms and even prevention of health issues. For example I trained Estrella to let perform a physical examination of her ears, eyes and measure her weight regularely. This lets me notice symptoms of e.g. ear infection early and also makes Estrella not mind examination by vets as much as she nows the routine. I also traind her to let me brush her teeth which reduces plaque and she will therefore need dental cleaning by vets less frequently.
 
 #### Leash Walking
-I post pictures of my cat walks on instagram. Feel free to have a look at them by clicking on the instagram symbol at the bottom of this page.
+For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs. I post pictures of my cat walks on instagram. Feel free to have a look at them by clicking on the instagram symbol at the bottom of this page.
 
 ##### Equipment
 
@@ -82,12 +88,11 @@ Please don't just expose your cat to the following objects. They need to be intr
 (To be continued)
 
 ### FAQ's
-* **Why do you leash walk your cat?** For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs.
-* **Can only young cats learn to walk on a leash?** Cats can learn new things their whole live just like humans can. Of course it is easier to learn new things when you are younger but that does not mean once we get older we should stop trying to.
+* **Can only young cats learn tricks or to walk on a leash?** Cats can learn new things their whole live just like humans can. Of course it is easier to learn new things when you are younger but that does not mean once we get older we should stop trying to.
 
 
 ### Links for further reading
 
-* [hundestunde podcast](https://podcasts.apple.com/de/podcast/hundestunde/id1547821363): This is a podcast in german about education and relationships with dogs. I discovered I could use many of their advises for my cat as well.
+* [Hundestunde podcast](https://podcasts.apple.com/de/podcast/hundestunde/id1547821363): This is a podcast in german about education and relationships with dogs. I discovered I could use many of their advises for my cat as well.
 (To be continued)
 
