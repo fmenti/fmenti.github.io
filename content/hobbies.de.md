@@ -1,6 +1,7 @@
 ---
 title: "Hobbies"
 math: true
+hide_title: true
 ---
 
 # Meine Hobbys
@@ -41,7 +42,7 @@ Bei diesem Trick lernt Ihre Katze, mit ihrer Nase ein Ziel zu berühren. Als Zie
 
 (Fortsetzung folgt)
 
-<figur>
+<figure>
     <img src="/EstrellaJump.jpeg" widt="300" height="300" />
 </figure>
 
@@ -74,7 +75,7 @@ Bitte setzen Sie Ihre Katze nicht einfach den folgenden Gegenständen aus. Sie m
 * Eine Leine: Ich habe eine dünne 3-Meter-Leine, bei der ich je nach Situation entscheide, ob ich sie dicht bei mir halte oder ihr die volle Länge lasse.
 * Ein Sicherheitsgefäß, in das ich die Katze stecke, wenn Gefahr in der Nähe ist, z. B. ein unbekannter, nicht angeleinter Hund. Ich benutze diesen Rucksack gerne, weil ich Estrella damit auch gut zu schönen Plätzen tragen und dort unseren Spaziergang beginnen kann.
 
-<Figur>
+<figure>
     <img src="/CatBackPack.jpeg" widt="300" height="300" />
 </figure>
 
