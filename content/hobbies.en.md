@@ -95,5 +95,5 @@ Please don't just expose your cat to the following objects. They need to be intr
 ### Links for further reading
 
 * [Hundestunde podcast](https://podcasts.apple.com/de/podcast/hundestunde/id1547821363): This is a podcast in german about education and relationships with dogs. I discovered I could use many of their advises for my cat as well.
-(To be continued)
+* [Wiki-How] (https://www.wikihow.pet/Clicker-Train-a-Cat) Clicker training tutorial on wiki how.
 
