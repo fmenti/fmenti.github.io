@@ -85,8 +85,8 @@ Bitte setze deine Katze nicht einfach den folgenden Gegenständen aus. Sie müss
 
 
 ### FAQ's
-**Können nur junge Katzen Tricks oder das Gehen an der Leine lernen?** Katzen können ihr ganzes Leben lang neue Dinge lernen, genau wie Menschen. Natürlich ist es einfacher, neue Dinge zu lernen, wenn man jünger ist, aber das bedeutet nicht, dass wir aufhören sollten, es zu versuchen, wenn wir älter werden.
-**Was mache ich, wenn meine Katze nicht versteht was ich von ihr möchte?** Du kannst entweder deine Katze dafür belohnen, dass sie weiter ausprobiert was sie machen soll. Oder du hilfst ihr in dem du das Ziel in Teilschritte unterteilst. 
+* **Können nur junge Katzen Tricks oder das Gehen an der Leine lernen?** Katzen können ihr ganzes Leben lang neue Dinge lernen, genau wie Menschen. Natürlich ist es einfacher, neue Dinge zu lernen, wenn man jünger ist, aber das bedeutet nicht, dass wir aufhören sollten, es zu versuchen, wenn wir älter werden.
+* **Was mache ich, wenn meine Katze nicht versteht was ich von ihr möchte?** Du kannst entweder deine Katze dafür belohnen, dass sie weiter ausprobiert was sie machen soll. Oder du hilfst ihr in dem du das Ziel in Teilschritte unterteilst. 
 
 
 ### Links zum Weiterlesen
