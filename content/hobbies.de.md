@@ -4,7 +4,7 @@ math: true
 hide_title: true
 ---
 
-# Meine Hobbys
+# Meine Hobbies
 
 Ich liebe es, Tiere zu trainieren (besonders meine Katze und meinen Hund), Fantasy- oder Scify-Bücher zu lesen (besonders die von Brandon Sanderson und Michael Sullivan) und Spiele zu spielen (D&D / Pathfinder, Tabletop-Spiele, Computerspiele,...).
 

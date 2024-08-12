@@ -10,4 +10,4 @@ Most of my research is driven by designing and implementing the [LIFE](https://l
 
 In my free time, I like interacting with animals🐕, playing (board) games and helping our society become more inclusive!
 
-Please feel free to get in touch! 📧
+Please feel free to get in touch!
