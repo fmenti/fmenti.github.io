@@ -17,4 +17,4 @@ Nachdem ich meinen Master an der ETH Zürich abgeschlossen habe, bin ich nun bei
 
 In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, eine sogenannter Vertrauenshund, von der [Blindenhundeschule Liestal](www.blindenhund.ch). Im Artikel des Vereines können Sie mehr darüber lesen:
 
-* Célia Schwank und Franziska Menti, ["Erlebnisbericht Estrella, Nayla und ich"](https://www.blindenhund.ch/wp-content/uploads/2024/06/VBM_Magazin_2024_2_95_Druckbogen_WEB.pdf), VBM Magazin, Sommer 2024, Seite 14.
+* Célia Schwank und Franziska Menti, ["Erlebnisbericht Estrella, Nayla und ich"](https://www.blindenhund.ch/site/assets/files/1213/vbm_magazin_2024_2_95_druckbogen_web.pdf), VBM Magazin, Sommer 2024, Seite 14.
