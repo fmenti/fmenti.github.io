@@ -27,3 +27,10 @@ Inclusion (coming soon)
 
 Accessibility (coming soon)
 
+Ressources
+
+* Buch Maria Zimmermann - Anders nicht falsch
+* https://www.enableme.ch/de/behinderungen/autismus-die-andere-wahrnehmung-der-welt-83
+* see others on google drive
+
+

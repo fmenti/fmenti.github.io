@@ -61,6 +61,26 @@ Estrella likes jumping over obstacles. I started by using small obstacles and ha
     <img src="/highfive.jpg" widt="300" height="300" />
 </figure>
 
+#### Balancing
+
+(Fortsetzung folgt)
+
+<figure>
+    <img src="/balance.jpg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/balanceball.jpg" widt="300" height="300" />
+</figure>
+
+#### Retrieving
+
+(Fortsetzung folgt)
+
+<figure>
+    <img src="/foodbag.jpg" widt="300" height="300" />
+</figure>
+
 ### Further Training
 
 Till now all tricks were just for fun without any further objectives. You can, however, also use training to make difficult situations (e.g. vet visits) less stressfull or to get save access to the outdoors.
@@ -70,14 +90,14 @@ Till now all tricks were just for fun without any further objectives. You can, h
 Medical training can be very beneficial for your cat's health. It encompases training to tolerate handling for medical purposes, enables early detection of symptoms and even prevention of health issues. For example I trained Estrella to let perform a physical examination of her ears, eyes and measure her weight regularely. This lets me notice symptoms of e.g. ear infection early and also makes Estrella not mind examination by vets as much as she nows the routine. I also traind her to let me brush her teeth which reduces plaque and she will therefore need dental cleaning by vets less frequently.
 
 #### Leash Walking
-For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs. I post pictures of my cat walks on instagram. Feel free to have a look at them by clicking on the instagram symbol at the bottom of this page.
+For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs. I post pictures of my cat walks on [Instagram](https://instagram.com/estrellamenti/).
 
 ##### Equipment
 
 Please don't just expose your cat to the following objects. They need to be introduced slowly and positively.
 
 * A harness: Make sure it has broad enough strings to not strangle your cat when it suddenly moves into it with force e.g. when id does one of those one meter leaps from getting scared.
-* A leash: I have a thin 3 meter leash where I decide depending on the situation if I keep her close to me or let her have the full lenght.
+* A leash: I have a thin 3 meter leash where I decide depending on the situation if I keep her close to me or let her have the full length.
 * A save container for putting the cat into when there is danger around e.g. unknown off leash dog. I like to use this backpack because I can also easily carry Estrella to nice places with her and start our walk there.
 
 <figure>
@@ -96,4 +116,6 @@ Please don't just expose your cat to the following objects. They need to be intr
 
 * [Hundestunde podcast](https://podcasts.apple.com/de/podcast/hundestunde/id1547821363): This is a podcast in german about education and relationships with dogs. I discovered I could use many of their advises for my cat as well.
 * [Wiki-How] (https://www.wikihow.pet/Clicker-Train-a-Cat) Clicker training tutorial on wiki how.
+* Cat Behaviour Experts e.g. [Jackson Galaxy](https://www.youtube.com/user/TheCatDaddy66)
+<!-- * https://www.thesofastrays.com/meowtown might put this on my webpage hobby en lists -->
 

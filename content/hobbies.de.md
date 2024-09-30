@@ -56,17 +56,32 @@ Bei diesem Trick lernt deine Katze, mit ihrer Nase ein Ziel zu berühren. Als Zi
 
 (Fortsetzung folgt)
 
-### Weiteres Training
+#### Balancieren
 
 (Fortsetzung folgt)
+
+<figure>
+    <img src="/balance.jpg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/balanceball.jpg" widt="300" height="300" />
+</figure>
+
+#### Apportieren
+
+(Fortsetzung folgt)
+
+<figure>
+    <img src="/foodbag.jpg" widt="300" height="300" />
+</figure>
 
 ### Weiteres Training
 
 #### Medizinisches Training
 
 #### An der Leine gehen
-Für meine Katze ist der Spaziergang an der Leine ein Abenteuer im Vergleich zu der Zeit, die sie im Haus verbringen muss. Ich benutze eine Leine statt sie dort laufen zu lassen wo sie will weil ich in einem Vorort wohne. Mit der Leine kann ich verhindern, dass Estrella in gefährliche Situationen mit Autos oder Hunden gerät. Ich poste Bilder von meinen Katzenspaziergängen auf instagram. Wenn du diese anschauen möchtest klicke auf das Instagram-Symbol unten auf dieser Seite. 
-
+Für meine Katze ist der Spaziergang an der Leine ein Abenteuer im Vergleich zu der Zeit, die sie im Haus verbringen muss. Ich benutze eine Leine statt sie dort laufen zu lassen wo sie will weil ich in einem Vorort wohne. Mit der Leine kann ich verhindern, dass Estrella in gefährliche Situationen mit Autos oder Hunden gerät. Ich poste Bilder von meinen Katzenspaziergängen auf [Instagram](https://instagram.com/estrellamenti/). 
 
 ##### Ausrüstung
 Bitte setze deine Katze nicht einfach den folgenden Gegenständen aus. Sie müssen langsam und positiv eingeführt werden.
@@ -93,3 +108,4 @@ Bitte setze deine Katze nicht einfach den folgenden Gegenständen aus. Sie müss
 
 * [Hundestunde Podcast](https://podcasts.apple.com/de/podcast/hundestunde/id1547821363): Ein Podcast über Erziehung und Beziehung von Hunden. Ich habe entdeckt, dass viele ihrer Tipps auch mit meiner Katze helfen.
 * [Katzen-Clicker-Box](https://katzenkundig.de/katzen-clicker-box): Trainingsbox mit Klicker und vielen Trainingskarten.
+* Katzen Verhaltensexperten z.B. [Birga Dexel](https://birgadexel.com/)
