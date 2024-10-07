@@ -29,6 +29,8 @@ Zuerst müsst du herausfinden, was deine Katze motiviert. Am einfachsten ist es,
 #### Katzenwahrnehmung und -denken
 Katzen nehmen die Welt anders wahr als Menschen. Vom evolutionären Standpunkt aus gesehen sind sie einerseits Raubtiere und andererseits durch ihre Grösse selbst selbst in Gefahr Beute zu werden. Das bedeutet, dass sie sich durch Sinnesreize ablenken lassen können, was zu Jagd-, Kampf-, Flucht- oder Erstarrungsreaktionen führt. Es gibt viele mögliche Gründe für deine Katze nicht zu versteht  was du von ihr willst. Estrella reagiert oft auf Gerüche, die ich nicht wahrnehmen kann. Wenn sie übermäßig abgelenkt zu sein scheint, versuche ich ihr zu helfen. Z.B. in dem ich mit ihr an einen anderen Ort gehe und einen ganz einfachen Trick versuche. Klappt das, dann weiss ich dass sie sich hier besser konzentrieren kann. Katzen sehen auch nicht so wie Menschen. Sie können zwar schlechter Farben sehen, aber Bewegungen besser wahrnehmen. Du kannst deiner Katze helfen etwas wahrzunehmen indem du es ein wenig bewegst. Eine Katze merkt sich den Beginn und das Ende einer Trainingseinheit am besten. Deshalb empfehle ich, mit etwas einfachem Anzufangen und das Training zu beenden, deiner Katze am meisten Spaß macht. Auf diese Weise wird sie sehr motiviert sein, wenn du die nächste Trainingseinheit beginnst.
 
+(Foto mit schnüffelnder Katze und buschiger Katze folgt)
+
 #### Der erste Trick
 Vielleicht hast du schon vom Clickertraining gehört. Dabei handelt es sich um eine Trainingsform, bei der das gewünschte Verhalten durch ein Klicken eines Klickers (oder alternativ durch ein anderes Geräusch, das z. B. das eines Kugelschreibers) markiert wird. Darauf folgt dann eine Belohnung. Der Vorteil der Verwendung eines Clickers anstelle eines verbalen Lobes ist, dass es immer gleich klingt. Ich habe das Clickertraining verwendet und tue es normalerweise immer noch, wenn ich meiner Katze einen neuen Trick beibringe. Allerdings finde ich es schwierig, es während der normalen Trainingseinheiten durchzuhalten. Deshalb rate ich zu probieren, ob es für einen passt. Clickertraining beginnt man in dem man den Klick mit der Belohnung verknüpft. Verlange noch nichts von deiner Katze, sondern klicke einfach und bieten ihr gleich danach die Belohnung an. Mache das ein paar Mal, bis deine Katze beim Hören des Klicks erwartet, dass sie die Belohnung bekommt. Jetzt weiss deine Katze, **warum** sie das tun soll, was du beim Training von ihr möchtest. Als nächstes muss sie lernen, **was** sie tun soll.
 Welche Art von Tricks deine Katze mag, hängt von ihrem Charakter ab. Estrella liebt springende Tricks. Es wird einfacher sein, deiner Katze die Tricks beizubringen, die sie von sich aus anbietet. Der erste Trick, den ich empfehlen würde, ist "Target". Es hilft beim Training kurze Trainingsintervalle (5-10 Minuten) zu machen, die aber mehrmals über den Tag verteilt stattfinden. 
@@ -38,9 +40,31 @@ Welche Art von Tricks deine Katze mag, hängt von ihrem Charakter ab. Estrella l
 #### Nasentarget
 Bei diesem Trick lernt deine Katze, mit ihrer Nase ein Ziel zu berühren. Als Ziel, genannt Target, verwende ich meinen ausgestreckten Zeigefinger. Du kannst auch einen Stab oder ein anderes Target verwenden. Beginne damit, das Target vor deine Katze zuhalten und jede Aktion von ihr in Richtung Target mit einem Klick zubelohnen. Wenn Ihre Katze neugierig ist, läuft sie vielleicht sofort zum Target und schnuppert daran. In diesem Fall belohne sie sofort und versuche ob es gleich nochmals klappt. Wenn deine Katze eher zögerlich ist, versteht sie wahrscheinlich nicht was du von ihr möchtest. Dies ist völlig verständlich. Versuche dann, statt dem Endziel das Zwischenziel "Katze schaut Target an" zu erreichen. Bewege dazu das Ziel ein wenig und sobald deine Katze das Target anschaut erhält sie den Klick und die Belohnung. Wiederhole es ein paar mal und wenn deine Katze diesen Teilschritt zuverlässig ausführt erhöhen wir die Schwierigkeit. Dazu zögern wir die Bestätigung (Klick und Belohnung) weiter heraus. Als reaktion darauf wird deine Katze alles Mögliche versuchen, um an die Belohnung zu gelangen. Sobald deine Katze einen Schritt in Richtung des Ziels macht, klicken Sie und belohnen. Es ist wichtig, dass du geduldig bist und deiner Katze helfst, wenn sie nicht versteht, was sie tun soll. Wenn das Warten darauf, dass sie etwas ausprobiert, nicht funktioniert, versuche einen anderen Ansatz. Bei mir sitzt Estrella manchmal da und schnaubt, was ich so verstehe, dass sie sich über meine schlechten Lehrfähigkeiten ärgert. Bei dem obigen Trick könntest du versuchen, einen angenehmen Geruch (Futter, Katzenminze,...) auf dein Target zu bringen, um das richtige Verhalten zu ermutigen.
 
-#### Sprung
+<figure>
+    <img src="/nosetarget.jpeg" widt="300" height="300" />
+</figure>
+
+#### Pfotentarget
 
 (Fortsetzung folgt)
+
+<figure>
+    <img src="/pfotentarget.jpeg" widt="300" height="300" />
+</figure>
+
+Tiere können auch sehr gut durch nachahmen lernen. Zum Beispiel hat meine Hündin Nayla den Pfotentarget Trick durch abschauen bei Estrella gelernt.
+
+<figure>
+    <img src="/learningfromeachother.jpeg" widt="300" height="300" />
+</figure>
+
+#### Folgen
+
+Bewege deine Hand mit dem Leckerli weg von deiner Katze. Falls sie der Hand folgt, gib ihr das Leckerli. Mit training kannst du die Zeit verlängern während der deine Katze der Hand folgt bevor sie das Leckerli bekommt.
+
+#### Sprung
+
+Estrella mag das Springen über Hindernisse. Das Training dazu habe ich mit kleinen Hindernissen begonnen über die ich Estrella meiner Hand folgen liess.
 
 <figure>
     <img src="/EstrellaJump.jpeg" widt="300" height="300" />
@@ -68,6 +92,14 @@ Bei diesem Trick lernt deine Katze, mit ihrer Nase ein Ziel zu berühren. Als Zi
     <img src="/balanceball.jpg" widt="300" height="300" />
 </figure>
 
+#### Kriechen
+
+(Fortsetzung folgt)
+
+<figure>
+    <img src="/crawl.jpeg" widt="300" height="300" />
+</figure>
+
 #### Apportieren
 
 (Fortsetzung folgt)
@@ -80,7 +112,37 @@ Bei diesem Trick lernt deine Katze, mit ihrer Nase ein Ziel zu berühren. Als Zi
 
 #### Medizinisches Training
 
+Beim medizinischen Training lernt deine Katze für ihre Gesundheit zuträgliches zu tolerieren. Durch Inspizierung von Körperstellen auf Veränderungen kannst du festzustellen, ob deine Katze gesund ist. Dadurch kannst du Krankheitssymptome, kleine Verletzungen oder Zecken frühzeitig wahrnehmen und bei Bedarf den Tierarzt aufsuchen. Auch die Untersuchung beim Tierarzt wird deine Katze viel weniger stressen wenn solche Berührungen für sie Routine sind. 
+
+
+<figure>
+    <img src="/checkingears.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/checkingeyes.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/checkingteeth.jpeg" widt="300" height="300" />
+</figure>
+
+Ich habe meiner Katze auch Zähneputzen und Krallenschneiden tolerieren antrainiert. Und zwar bewusst dann, wenn es eigentlich noch nicht nötig ist. Im alter haben Katzen oft probleme mit Zähnen oder benutzen die Kratzgelegenheiten Schmerzen im Gelenkapparat nicht mehr genug wodurch solche Pflege sinnvoll ist. Wenn man jedoch erst dann das Training beginnt, wenn die Katze Schmerzen hat (schmerzende Zähne, schmerzen wegen Artritis,...) wird das Training viel schwieriger werden. Viel gemütlicher deiner Katze dies anzutrainieren wenn man keinen Zeitdruck hat und somit auch schon das Putzen eines einzigen Zahnes oder das zurückschneiden einer einzelnen Kralle als Trainingsziel nehmen kann. 
+
+<figure>
+    <img src="/teethbrushing.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/clawclipping.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/clawclippingzoom.jpeg" widt="300" height="300" />
+</figure>
+
 #### An der Leine gehen
+
 Für meine Katze ist der Spaziergang an der Leine ein Abenteuer im Vergleich zu der Zeit, die sie im Haus verbringen muss. Ich benutze eine Leine statt sie dort laufen zu lassen wo sie will weil ich in einem Vorort wohne. Mit der Leine kann ich verhindern, dass Estrella in gefährliche Situationen mit Autos oder Hunden gerät. Ich poste Bilder von meinen Katzenspaziergängen auf [Instagram](https://instagram.com/estrellamenti/). 
 
 ##### Ausrüstung

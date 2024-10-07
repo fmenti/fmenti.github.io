@@ -39,7 +39,23 @@ Which kind of tricks your cat likes depends on it's character. Estrella loves ju
 #### Nose Target
 In this trick your cat learn to touch with its nose a target. As a target I use my extended pointing finger but you could chose a stick or another target if you prefer. You start by holding the target not far from your cat and clicking and rewarding any action of your cat towards the final goal of its nose touching the target. If your cat is curious it might right away walk to the target and sniff on it. In that case reward it right away and try if it will do it again. If your cat is more hesitant it most likely does not understand what you want of it. That is totally understandable. Instead of starting with the end goal of touch have the intermediate goal of your cat looking at the target. For that move the target a bit and click and reward your cat if it looks at the target. Once your cat has learned this you don't right away reward. Your cat will notice that it is not getting the reward as usual and try out what it can to to get at the reward. As soon as your cat makes a move in the direction of the target click and reward. It is important to be patient and to help your cat when it doesn't understand what it is supposed to do. If just waiting for it to try out stuff doesn't work try another approach. I sometimes have Estrella sitting there snorting once which I understand her to be annoyed at my poor teaching skills. In the trick above you might try putting some nice smell (food, catnip,...) on your target to encourage the right behaviour.
 
-(add picture of target trick)
+<figure>
+    <img src="/nosetarget.jpeg" widt="300" height="300" />
+</figure>
+
+#### Paw target
+
+(To be continued)
+
+<figure>
+    <img src="/pfotentarget.jpeg" widt="300" height="300" />
+</figure>
+
+Animals can learn very well from imitating each other. As an example my dog Nayla learned the paw target trick by observing Estrella.
+
+<figure>
+    <img src="/learningfromeachother.jpeg" widt="300" height="300" />
+</figure>
 
 #### Follow
 
@@ -63,7 +79,7 @@ Estrella likes jumping over obstacles. I started by using small obstacles and ha
 
 #### Balancing
 
-(Fortsetzung folgt)
+(To be continued)
 
 <figure>
     <img src="/balance.jpg" widt="300" height="300" />
@@ -73,9 +89,17 @@ Estrella likes jumping over obstacles. I started by using small obstacles and ha
     <img src="/balanceball.jpg" widt="300" height="300" />
 </figure>
 
+#### Crawl
+
+(To be continued)
+
+<figure>
+    <img src="/crawl.jpeg" widt="300" height="300" />
+</figure>
+
 #### Retrieving
 
-(Fortsetzung folgt)
+(To be continued)
 
 <figure>
     <img src="/foodbag.jpg" widt="300" height="300" />
@@ -87,9 +111,38 @@ Till now all tricks were just for fun without any further objectives. You can, h
 
 #### Medical training
 
-Medical training can be very beneficial for your cat's health. It encompases training to tolerate handling for medical purposes, enables early detection of symptoms and even prevention of health issues. For example I trained Estrella to let perform a physical examination of her ears, eyes and measure her weight regularely. This lets me notice symptoms of e.g. ear infection early and also makes Estrella not mind examination by vets as much as she nows the routine. I also traind her to let me brush her teeth which reduces plaque and she will therefore need dental cleaning by vets less frequently.
+Medical training can be very beneficial for your cat's health. It encompases training to tolerate handling for medical purposes, enables early detection of symptoms and even prevention of health issues. For example I trained Estrella to let me perform a physical examination of her ears, eyes and measure her weight regularely. This lets me notice symptoms of e.g. ear infection early and also makes Estrella not mind examination by vets as much as she nows the routine. 
+
+<figure>
+    <img src="/checkingears.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/checkingeyes.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/checkingteeth.jpeg" widt="300" height="300" />
+</figure>
+
+I also traind her to let me brush her teeth which reduces plaque and she will therefore need dental cleaning by vets less frequently.
+
+<figure>
+    <img src="/teethbrushing.jpeg" widt="300" height="300" />
+</figure>
+
+Training your cat to tolerate clipping back its nails is very useful for when she is older. Old cats usually have too long claws because they can't move so well any longer from pains in the joints. If you trained your cat beforehand to tolerate claw clipping you can easily assist her in that way when she needs it. Important to note is that you only clip the part that doesn't have any blood or nerves in it, just like with clipping your own nails.
+
+<figure>
+    <img src="/clawclipping.jpeg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/clawclippingzoom.jpeg" widt="300" height="300" />
+</figure>
 
 #### Leash Walking
+
 For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs. I post pictures of my cat walks on [Instagram](https://instagram.com/estrellamenti/).
 
 ##### Equipment
@@ -110,12 +163,13 @@ Please don't just expose your cat to the following objects. They need to be intr
 
 ### FAQ's
 * **Can only young cats learn tricks or to walk on a leash?** Cats can learn new things their whole live just like humans can. Of course it is easier to learn new things when you are younger but that does not mean once we get older we should stop trying to.
+* **What do I do if my cat doesn't understand what I want from her?** You can either reward your cat for continuing to try to figure it out. Or you help it by dividing your goal into smaller steps.
 
 
 ### Links for further reading
 
 * [Hundestunde podcast](https://podcasts.apple.com/de/podcast/hundestunde/id1547821363): This is a podcast in german about education and relationships with dogs. I discovered I could use many of their advises for my cat as well.
-* [Wiki-How] (https://www.wikihow.pet/Clicker-Train-a-Cat) Clicker training tutorial on wiki how.
+* [Wiki-How](https://www.wikihow.pet/Clicker-Train-a-Cat) Clicker training tutorial on wiki how.
 * Cat Behaviour Experts e.g. [Jackson Galaxy](https://www.youtube.com/user/TheCatDaddy66)
 <!-- * https://www.thesofastrays.com/meowtown might put this on my webpage hobby en lists -->
 
