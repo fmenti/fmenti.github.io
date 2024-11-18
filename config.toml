@@ -53,7 +53,7 @@ title = 'Franziska Menti'
     [params.head]
         author = "Franziska Menti"
         custom_css = ""
-        description = "Hi, I'm Franziska, and this is my website!"
+        description = "Hi, I'm Franziska Menti, and this is my website!"
         keywords = ["Franziska", "Menti", "LIFE"]
 
     [params.navigation]

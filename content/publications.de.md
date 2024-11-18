@@ -7,6 +7,9 @@ hide_title: true
 
 * Menti F.  et al: The LIFE Target Star Database LIFETD, TAP-publiziertes Tabellen Set, doi:[10.21938/ke_e6lzO_jjX_vzvVIcwZA](https://dc.zah.uni-heidelberg.de/voidoi/q/lp/custom/10.21938/ke_e6lzO_jjX_vzvVIcwZA)
 
+* Menti F.  et al: Database of Candidate Targets for the LIFE Mission
+([NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract), [arxiv](https://arxiv.org/abs/2410.23892))
+
 # Arbeit
 
 Nachdem ich meinen Master an der ETH Zürich abgeschlossen habe, bin ich nun bei [Workaut](https://workaut.ch/) angestellt, das ein Programm zur Integration von Autisten am Arbeitsplatz anbietet. Im Artikel des ETH-Community-Magazins können Sie mehr darüber lesen: 
@@ -14,7 +17,7 @@ Nachdem ich meinen Master an der ETH Zürich abgeschlossen habe, bin ich nun bei
 * Anna Maltsev, ["Im Rausch der Sinne"](https://ethz.ch/content/dam/ethz/associates/services/News/life/ausgaben/deutsch/ETH-Life-Oktober-DE_ACC.pdf), life, Oktober 2022, Seite 10. 
 
 Ich habe auch schon Weiterbildungen zum Thema Arbeit und Autismus gegeben.
-* [HTML](https://workaut.ch/Weiterbildung/Kurskalender/index.php/;focus=HSTPTP_cm4all_com_widgets_EventCalendar_6243917&path=?m=d&a=20220315155928-6819&cp=1) oder [PDF](https://www.dropbox.com/scl/fi/2utu5jjsszv0tibuekyvu/Kursauschreibung_berufliche-Teilhabe_3.pdf?rlkey=wvcyctmt3iuzxncnijte09lyc&st=uincs3nl&dl=0)
+* Iris Köppel, Mona Hepp und Franziska Menti,  Berufliche Teilhabe Gestalten, Blick darüber hinaus - Work-Life-Balance und Weiterentwicklung, Weiterbildungsreihe von Workaut, 17.01.2023 ([HTML](https://workaut.ch/Weiterbildung/Kurskalender/index.php/;focus=HSTPTP_cm4all_com_widgets_EventCalendar_6243917&path=?m=d&a=20220315155928-6819&cp=1), [PDF](https://www.dropbox.com/scl/fi/2utu5jjsszv0tibuekyvu/Kursauschreibung_berufliche-Teilhabe_3.pdf?rlkey=wvcyctmt3iuzxncnijte09lyc&st=uincs3nl&dl=0))
 
 # Vertrauenshund
 

@@ -8,7 +8,8 @@ hide_title: true
 * Menti F.  et al: The LIFE Target Star Database LIFETD, TAP-published
   table set, doi:[10.21938/ke_e6lzO_jjX_vzvVIcwZA](https://dc.zah.uni-heidelberg.de/voidoi/q/lp/custom/10.21938/ke_e6lzO_jjX_vzvVIcwZA)
 
-
+* Menti F.  et al: Database of Candidate Targets for the LIFE Mission
+([NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract), [arxiv](https://arxiv.org/abs/2410.23892))
 
 # Employment
 
