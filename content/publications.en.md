@@ -22,3 +22,7 @@ After finishing my master at ETH Zurich I am now employed through [Workaut](http
 In my day to day live I am supported by my assistance dog for adult autistic people, a so-called Vertrauenshund, from [Blindenhundeschule Liestal](https://www.blindenhund.ch). In the magazine of the association you can read more about it (though you might need a translation software as it is in German):
 
 * Célia Schwank and Franziska Menti, ["Erlebnisbericht Estrella, Nayla und ich"](https://www.blindenhund.ch/site/assets/files/1213/vbm_magazin_2024_2_95_druckbogen_web.pdf), VBM Magazin, Summer 2024, page 14.
+
+* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Ein Haushalt mit Vertrauenshund und Katze](https://www.swiss-abilities.ch/de/c/ein-haushalt-mit-vertrauenshund-und-katze.57254)
+
+* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Dank dem Vertrauenshund zu mehr Selbstbestimmung](https://www.swiss-abilities.ch/de/c/dank-dem-vertrauenshund-zu-mehr-selbstbestimmung.56717)

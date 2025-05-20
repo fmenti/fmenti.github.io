@@ -19,10 +19,10 @@ title = 'Franziska Menti'
         name = "Publications"
         pageRef  = "/publications"
         weight = 2
-    # [[languages.en.menus.main]]
-    #    name = "Autism"
-    #    url  = "/autism"
-    #    weight = 3
+     [[languages.en.menus.main]]
+        name = "Autism"
+        pageRef  = "/autism"
+        weight = 3
       [[languages.en.menus.main]]
         name = "Hobbies"
         pageRef  = "/hobbies"
@@ -36,10 +36,10 @@ title = 'Franziska Menti'
         name = "Publikationen"
         pageRef  = "/publications"
         weight = 2
-    # [[languages.de.menus.main]]
-    #    name = "Autism"
-    #    url  = "/autism"
-    #    weight = 3
+      [[languages.de.menus.main]]
+        name = "Autismus"
+        pageRef  = "/autism"
+        weight = 3
       [[languages.de.menus.main]]
         name = "Hobbies"
         pageRef  = "/hobbies"

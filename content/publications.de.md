@@ -21,6 +21,8 @@ Ich habe auch schon Weiterbildungen zum Thema Arbeit und Autismus gegeben.
 
 # Vertrauenshund
 
-In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, eine sogenannter Vertrauenshund, von der [Blindenhundeschule Liestal](https://www.blindenhund.ch). Im Artikel des Vereines können Sie mehr darüber lesen:
-
 * Célia Schwank und Franziska Menti, ["Erlebnisbericht Estrella, Nayla und ich"](https://www.blindenhund.ch/site/assets/files/1213/vbm_magazin_2024_2_95_druckbogen_web.pdf), VBM Magazin, Sommer 2024, Seite 14.
+
+* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Ein Haushalt mit Vertrauenshund und Katze](https://www.swiss-abilities.ch/de/c/ein-haushalt-mit-vertrauenshund-und-katze.57254)
+
+* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Dank dem Vertrauenshund zu mehr Selbstbestimmung](https://www.swiss-abilities.ch/de/c/dank-dem-vertrauenshund-zu-mehr-selbstbestimmung.56717)

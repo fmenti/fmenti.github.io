@@ -1,36 +1,37 @@
 ---
-title: "Autism"
-math: true
+title: Autismus
+hide_title: true
 ---
 
-Sorry, I am still working on getting the content here ready.
+# Was ist Autismus?
 
-I am autistic.
+Mir gefällt die Beschreibung von [Refrainingautism](https://reframingautism.org.au/about-autism/) sehr gut:
 
-What is Autism?
+"Wir betrachten Autismus als ein Unterschied im Gehirn der grundlegend dafür ist, wer wir sind. Das bedeutet Autismus ist ein wichtiger Teil dessen, wer wir sind und wie wir in der Welt leben. 
 
-As described by https://reframingautism.org.au/about-autism/:
-"At Reframing Autism, we think of Autism as a brain difference that is basic and fundamental to who we are. This means that Autism is an important part of who we are and the way we are in the world.
+Autistische Menschen entwickeln sich anders als nicht autistische Menschen. Autistische Menschen denken, bewegen, interagieren, fühlen und verarbeiten anders, als man es vielleicht erwarete.  Wir haben auch mehr Eigenschaften und Merkmale mit anderen autistischen Menschen gemeinsam als mit nicht-autistischen Menschen. Jeder Mensch ist anders, aber Autisten unterscheiden sich von nicht-autistischen Menschen in der Art und Weise, wie wir:
 
-Autistic people develop differently to non-autistic people. Autistic people think, move, interact, sense and process differently to what people might expect. We also have more qualities and characteristics in common with other Autistic people than with non-autistic people. Each person is different, but Autistic people will be different to non-autistic people in the way we:
+* Sozial interagieren und kommunizieren, einschließlich der Art und Weise, wie wir Verbindungen aufbauen, Freundschaften gestalten und Sprache und Gestik verwenden
+* Denken und Verarbeiten, einschließlich der Art und Weise, wie wir Muster und Zusammenhänge erkennen, uns etwas vorstellen und spielen, unsere Sinne, Emotionen und exekutive Funktionen erleben und ausdrücken sowie die Art und Weise, wie sich unsere Gehirne entwickeln
 
-    Socialise and communicate,  including the way we connect, make and understand friendships and relationships, and use speech and body language
-    Think and process,  including the way we see patterns and connections, imagine and play, experience and express our senses, emotions and executive functioning, and in the way our brains develop
+Diese Unterschiede können bei Kindern und Erwachsenen unterschiedlich aussehen."
 
-These differences can look different for children and adults. "
 
-Presentations about work-life balance with autism and pilot project at ETH.
+# Assistenzhund - Vertrausenhund
 
-Assistance dog Vertrausenhund (vertrauenshund.ch)
+In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, eine sogenannter [Vertrauenshund](vertrauenshund.ch), von der [Blindenhundeschule Liestal](https://www.blindenhund.ch).
 
-Inclusion (coming soon)
 
-Accessibility (coming soon)
+# Inklusion
+Ich versuche mich für inklusion einzusetzen z.B. 
+* durch Vorträge halten zu work-life balance mit Autismus und meinem Pilotprojekt an der ETH.
 
-Ressources
+* Autismus Akzeptanz Monat Challenge 2025 durch Instagram Posts (mehr dazu bald)
+
+# Links
 
 * Buch Maria Zimmermann - Anders nicht falsch
 * https://www.enableme.ch/de/behinderungen/autismus-die-andere-wahrnehmung-der-welt-83
-* see others on google drive
+<!-- * see others on google drive -->
 
 

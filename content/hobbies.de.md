@@ -101,6 +101,7 @@ Estrella mag das Springen über Hindernisse. Das Training dazu habe ich mit klei
 </figure>
 
 #### Apportieren
+Für Katzen ist es natürlich, Beute zu tragen. In der Natur erbeuten sie ein Tier, tragen es irgendwohin wo sie sich sicher fühlen und fressen es dort. Trotzdem fand ich es sehr schwierig, Estrella das apportieren beizubringen. Nach viel ausprobieren und training hat es dann aber doch geklappt. Falls deine Katze bereits gerne Spielzeug oder Futter herumträgt, kannst du wahrscheinlich dieses nutzen für das Training, ansonsten empfehle ich einen Futterbeutel. Das gute an einem solchen ist, dass man ganz feines Futter / Leckerli rein tun kann welches die Katze zwar riechen, nicht aber fressen kann. Dazu ist natürlich wichtig die richtige Grösse an Futterbeutel zu benutzen. Gross genug dass sie ihn nicht verschlucken kann aber klein genug damit das Tragen noch angenehm für sie ist. Für das Apportiertraining ist es hilfreich, wenn deine Katze bereits an Geschirr und Leine gewöhnt ist (siehe Anleitung unten). Fülle den Futterbeutel mit Leckerli, wirf ihn ca einen Meter entfernt hin und sobald deine Katze sich mit dem Futterbeutel beschäftigt gib ihr etwas aus dem Beutel. Die nächsten Trainingsziele wären dann: 1. den Futterbeutel kurz tragen und 2. den Futterbeutel in deine Richtung tragen. Für letzteres ist die Leine nützlich. Eine angeleinte Katze kannst du gut leicht in deine Richtung ziehen und dann gleich mit Futter aus dem Beutel belohnen. Eine Schwierigkeit die ich mit Estrella hatte war, dass sie den Futterbeutel zwar gerne trug, ihn aber nicht mehr abgeben wollte. Dabei hat mir geholfen nicht nur einen sondern zwei Futterbeutel mit Leckerli zu benutzen. Sobald sie etwas richtig gemacht hat, habe ich ihr futter aus dem anderen Futterbeutel angeboten. Wenn sie dieses nehmen wollte musste sie ihren Futterbeutel loslassen und ich konnte diesen an mich nehmen.
 
 (Fortsetzung folgt)
 
@@ -109,6 +110,10 @@ Estrella mag das Springen über Hindernisse. Das Training dazu habe ich mit klei
 </figure>
 
 ### Weiteres Training
+
+#### Gewöhnung
+
+(Fortsetzung folgt)
 
 #### Medizinisches Training
 
@@ -141,6 +146,8 @@ Ich habe meiner Katze auch Zähneputzen und Krallenschneiden tolerieren antraini
     <img src="/clawclippingzoom.jpeg" widt="300" height="300" />
 </figure>
 
+Meine 15 jährige Katze hat unter anderem fortgeschrittene chronische Niereninsuffizienz. Dies ist eine progressive Erkrankung und ich kann ihr dadurch helfen, dass ich ihr Flüssigkeit unter die Haut spritze. Das Flüssigkeit spritzen mache ich mittlerweile seit Monaten täglich und es läuft problemlos, das hätte ich mir früher nie gedacht. Hierzu darf meine Katze aus einer umfunktionierten Silikonbürste Leckerli zwischen den Noppen hinausschlecken. Währenddessen Spritze ich ihr unter die Haut was sie oft mit einem kleinen Schmerzlaut kommentiert, sie jedoch nicht hindert, weiter sich mit den Leckerli zu befassen. Am Anfang war das natürlich schwieriger. Estrella hatte nicht verstanden, wieso ich ihr Schmerzen zufüge und jeweils mit schnappen kommentiert, dass ich damit aufhören solle. Natürlich hatte auch ich wenig Übung im Spritze geben und es wahr wahrscheinlich schmerzhafter. Mein Ziel war in den ersten Wochen einfach, diese Routine mit Leckerli und Spritzversuch zu etablieren, und noch gar nicht eine gewisse menge Flüssigkeit in die Katze reinbekommen. Mit der Zeit hat Estrella gelernt, dass nach dem ersten Schmerz gar nicht mehr entsteht. Auch wenn ich mal die Spritze leicht bewegen muss, um den Flüssigkeitsfluss zu verbessern kommentiert sie das zwar mit Schmerzlaut, aber hauptsächlich um mir zu kommunizieren, dass ich extra Leckerli nachlegen muss, weil sie sonst die Kooperation bald abbricht. Mittlerweile setzt sich meine Katze schon in Erwartungshaltung bereit, wenn ich die Spritze hervornehme. Meine Rückschlüsse daraus: Regelmässige Spritzen sind nicht sonderlich schlimm für meine Katze. Der Schmerz an sich kann gut mit Leckerli ausbalanciert werden, vor allem durch ihr Wissen, dass der Schmerz bald vorbei geht und ich ihre Kommunikation ernst nehme.
+
 #### An der Leine gehen
 
 Für meine Katze ist der Spaziergang an der Leine ein Abenteuer im Vergleich zu der Zeit, die sie im Haus verbringen muss. Ich benutze eine Leine statt sie dort laufen zu lassen wo sie will weil ich in einem Vorort wohne. Mit der Leine kann ich verhindern, dass Estrella in gefährliche Situationen mit Autos oder Hunden gerät. Ich poste Bilder von meinen Katzenspaziergängen auf [Instagram](https://instagram.com/estrellamenti/). 
@@ -150,7 +157,7 @@ Bitte setze deine Katze nicht einfach den folgenden Gegenständen aus. Sie müss
 
 * Ein Geschirr: Achten darauf, dass die Riemen breit genug sind, um deine Katze nicht zu strangulieren, wenn sie sich plötzlich mit Kraft hineinbewegt, z. B. wenn sie vor Schreck einen dieser Ein-Meter-Sprünge macht.
 * Eine Leine: Ich habe eine dünne 3-Meter-Leine, bei der ich je nach Situation entscheide, ob ich sie dicht bei mir halte oder ihr die volle Länge lasse.
-* Ein Sicherheitsgefäß, in das ich die Katze stecke, wenn Gefahr in der Nähe ist, z. B. ein unbekannter, nicht angeleinter Hund. Ich benutze diesen Rucksack gerne, weil ich Estrella damit auch gut zu schönen Plätzen tragen und dort unseren Spaziergang beginnen kann.
+* Eine Box oder Tasche zur Sicherheit, in das ich die Katze stecke, wenn Gefahr in der Nähe ist, z. B. ein unbekannter, nicht angeleinter Hund. Ich benutze diesen Rucksack gerne, weil ich Estrella damit auch gut zu schönen Plätzen tragen und dort unseren Spaziergang beginnen kann.
 
 <figure>
     <img src="/CatBackPack.jpeg" widt="300" height="300" />
