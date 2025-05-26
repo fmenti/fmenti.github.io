@@ -1,6 +1,5 @@
 ---
 title: "Hobbies"
-math: true
 hide_title: true
 ---
 
