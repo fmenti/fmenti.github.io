@@ -4,7 +4,7 @@ baseURL = "/"
 canonifyURLs = true
 #copyright = "© 2021 by Carl Barks. <a href='/privacy'>Privacy policy</a>."
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 theme = "barks"
 
 #Languages
