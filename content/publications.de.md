@@ -26,3 +26,8 @@ Ich habe auch schon Weiterbildungen zum Thema Arbeit und Autismus gegeben.
 * Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Ein Haushalt mit Vertrauenshund und Katze](https://www.swiss-abilities.ch/de/c/ein-haushalt-mit-vertrauenshund-und-katze.57254)
 
 * Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Dank dem Vertrauenshund zu mehr Selbstbestimmung](https://www.swiss-abilities.ch/de/c/dank-dem-vertrauenshund-zu-mehr-selbstbestimmung.56717)
+
+# Sonstges
+
+
+* Vortrag über meine Vorlagen in der KnowTism Reihe des [Autistinnen Netzwerkes](https://autistinnen.ch/) [PDF](https://www.dropbox.com/scl/fi/zx7kymhb3d3pm1qrlk8ag/FlyerAutistinnenKnowtism.pdf?rlkey=8ww32ooagvc42bj87atgvakz6&dl=0))
