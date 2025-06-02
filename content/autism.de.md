@@ -17,7 +17,7 @@ Autistische Menschen entwickeln sich anders als nicht autistische Menschen. Auti
 Diese Unterschiede können bei Kindern und Erwachsenen unterschiedlich aussehen."
 
 
-# Assistenzhund - Vertrausenhund
+# Vertrausenhund (Assistenzhund)
 
 In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, eine sogenannter [Vertrauenshund](vertrauenshund.ch), von der [Blindenhundeschule Liestal](https://www.blindenhund.ch).
 
