@@ -21,6 +21,10 @@ Diese Unterschiede können bei Kindern und Erwachsenen unterschiedlich aussehen.
 
 In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, eine sogenannter [Vertrauenshund](vertrauenshund.ch), von der [Blindenhundeschule Liestal](https://www.blindenhund.ch).
 
+<figure>
+    <img src="/Nayla.jpg" widt="300" height="300" />
+</figure>
+
 
 # Inklusion
 Ich versuche mich für inklusion einzusetzen z.B. 
@@ -31,7 +35,8 @@ Ich versuche mich für inklusion einzusetzen z.B.
 # Links
 
 * Buch Maria Zimmermann - Anders nicht falsch
-* https://www.enableme.ch/de/behinderungen/autismus-die-andere-wahrnehmung-der-welt-83
+* [Enableme Autismus](https://www.enableme.ch/de/behinderungen/autismus-die-andere-wahrnehmung-der-welt-83)
 <!-- * see others on google drive -->
+* [Podcast Kontrast - Leben mit Behinderung und Krankheit](https://www.ost.ch/de/die-ost/departemente/departement-soziale-arbeit/kulturzyklus/podcast-serie)
 
 

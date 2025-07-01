@@ -10,6 +10,9 @@ I love training animals (especially my cat and my dog), reading fantasy or scify
 
 On my daily cat walks I often get asked, how one teaches a cat to walk on a leash or why I even do it. Those and many more questions I address in the next section.
 
+<figure>
+    <img src="/highfive0.jpg" widt="300" height="300" />
+</figure>
 
 ## Cat Training Guide
 

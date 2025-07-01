@@ -9,6 +9,9 @@ Ich liebe es, Tiere zu trainieren (besonders meine Katze und meinen Hund), Fanta
 
 Bei meinen täglichen Katzenspaziergängen werde ich oft gefragt, wie man einer Katze beibringt, an der Leine zu gehen oder warum ich das überhaupt mache. Diese und viele weitere Fragen beantworte ich im nächsten Abschnitt.
 
+<figure>
+    <img src="/highfive0.jpg" widt="300" height="300" />
+</figure>
 
 ## Leitfaden zum Katzentraining
 

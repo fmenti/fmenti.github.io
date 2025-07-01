@@ -20,6 +20,10 @@ These differences can look different for children and adults. "
 
 In my day to day life I am supported by my assistance dog for adult autistic people, a so called [Vertrauenshund](vertrauenshund.ch) from [Blindenhundeschule Liestal](https://www.blindenhund.ch).
 
+<figure>
+    <img src="/Nayla.jpg" widt="300" height="300" />
+</figure>
+
 # Inclusion
 I try to engage in promoting inclusion e.g. 
 * by holding presentations about work-life balance with autism and my pilot project at ETH.
@@ -64,6 +68,54 @@ Engaging in special interests is my main source of autistic joy. But also stimmi
 I can find immense joy in little details like the beauty of a waterdroplet on a leaf or abstract concepts like justice. 
 
 As I struggle with mental illness (depressive thoughts, almost daily fighting to prevent autistic downs, internalized ableism,…) I have learned many strategies to battle it. One very important one for me is gratitude journaling. First noticing, then appreciating and now being grateful for the good things in my life. It is how I trained my brain to be more positive and aware of the good stuff. Through it I also realized that I am the most content when I feel my deep bond with my pets. And when being aware of the many amazing people who support me.
+
+### Day 4 - Sensory friendly clothing
+This is such a challenge! Requirements:
+- Long soft undergarment because otherwise I get a rash from the roughness of the fabric (e.g. jeans fabric is too rough) or spiky pet hairs poking through.
+- Top layer fabric so that cat and dog hairs don’t stick too much. (No wool, fleece,...)
+- Top layer color so that cat and dog hairs don’t show so much (Not white because of black Nayla hair. Not black because of white Estrella hair. Anything else is at best medium because of the multicolored hairs of Estrella.)
+- Top layer robust fabric to not get immediately holes from cat claws.
+- I ended up with wearing hiking shoes all the time because they are the only ones I can lash tightly enough so that I don’t feel them moving. Otherwise even the fabric from the end of my trousers moving over my socks will be enough to cause a rash.
+- You might have noticed on other pictures that I wear gloves almost all the time. Those are because of my chronic skin problems on my hands. Though I have found that it is actually quite nice for my autism, too. Getting in contact with dog saliva or dirty surfaces bothers me less this way.
+- Main issue: I need to wear my clothes for a few weeks before I can tell if they work for me. By that time the same garment is usually no longer available to reorder in bulk. Fortunately I have found a few slow fashion brands e.g. ASKET that work for me
+
+### Day 5 - Special interests
+
+My special interests are astrophysics, animals and inclusion. Special interest means, that I am fascinated by it never getting bored to learn more on the topic.
+
+What I love about astrophysics is that in its scales my daily (or even humanities) problems are unimportant. For example if I think in time scales it takes to form a planet or how the universe started. Similarly in distance scales from the sizes of stars to clusters of galaxies. My interest in astronomy started already in primary school but more than the pretty pictures I like to know and to understand how it all works.
+
+I have always been fascinated by animals. The neighbours pet’s, wild animals, animal toys … and animal dictionaries. I made my mother read them to me when I was not able to read myself yet. Still today those are some of my favorite books. It is just calming for me to open it at a random page and read about an animal species. It is also way more intuitive for me to interact with animals. I will use any chance I get to do so as it just gives me pleasure. And I am also very good at training animals. I can easily place myself in the situation of an animal and assess what it would want out of an interaction with me.
+
+When my autism coach started teaching me what autism really was I started understanding how neurotypicals see the world, and what a big difference there is between our experiences. In order to find more strategies to make my life easier I researched more and more about autism. And the more I did the more it started to develop into a special interest. Given my many addiditonal marginalized identities I soon found out that what actually interested me was Equity and Inclusion.
+
+### Day 6 - My dream sensory space
+Each evening we cuddle as a family on the couch. The weight and warmth of my pets, the feel of their soft fur, the purring from Estrella reverberating through me. That is kind of my dream sensory space. But if I could have anything I wanted, it would be a holodeck (from Star Trek). That way I could go to any place I wanted and adapt my surroundings exactly how I like. I could also stop the experience at any time. Most likely I would go to all kinds of different nature environments (forests, beaches, mountains,…). The most important part about it would be the control over my sensory environment.
+Another idea would be having cat trees for humans. I am often envious at what nice places Estrella can hang out at.
+
+### Day 7 - Autistic authors
+My three favorite books about autism by autistic authors (two in german, one in english):
+
+- Schattenspringer von Daniela Schreiter: Graphic Novel über Kindheit und Jugend einer autistische Frau aus Deutschland. Liebevoll gezeichnet und Autismus gut erklärend.
+- Welcome to the autistic community (book also available free to read [online](https://autismacceptance.com/read-the-book/)): Eye opening and in my estimation a must for every autistic ally or autistic person.
+- Anders nicht falsch von Maria Zimmermann: Was herauskommt wenn eine Autistin spät eine Diagnose bekommt und sich ein paar Monate mit Hyperfokus zum Thema Autismus schlau macht um sich selbst verstehenzulernt. Was ich daran schätze: Einfache Sprache, Buch ist schnell gelesen, Autismus ist mega gut erklärt, affirmativ statt pathologisierend, nach neustem Konsensus der Forschung und Neurodiversitätsbewegung.
+
+### Day 8 - Autistic inclusion looks like
+Less what autistic inclusion looks like and more how to get closer to it:
+
+The path of acceptance: Concept from the queer movement and was coined by Dr. Vivienne Cass 1979. I adapted it from Jessica McCabe's book "How to ADHD" and an Ace Dad Advice video.
+1. Anti
+You deny the existence of autism or of me being autistic. Example: Autism is just a fashionable diagnosis.
+2. Acknowledgement
+You recognize autism exists but still have misconceptions. Example: You don't look autistic.
+3. Acceptance
+You recognize that autistic brains work differently from most and that through marginalization those differences create real impairments. You believe my experience of it. Example: I didn't realize executive functioning difficulties was an aspect of autism. That makes sense.
+4. Affirming
+You ask and listen about my experiences. You encourage me to get the support I need, and offer accommodations. Example: Thank you for telling me you have difficulties keeping to your scheduled breaks. Would it help if I remind you?
+5. Advocate
+You acknowledge power and agency to act. Example: You speak up for autistic people, even when they're not in the room. You offer support to autistic people without them having to ask.
+
+It took a lot of pressure from me when I realized that it is not my job to educate others. I can choose when I want to do so and it is enough to try to get others from one step to the next. No need to try to push them to the end. 
 
 # Ressources
 
