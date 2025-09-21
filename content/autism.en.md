@@ -24,6 +24,32 @@ In my day to day life I am supported by my assistance dog for adult autistic peo
     <img src="/Nayla.jpg" widt="300" height="300" />
 </figure>
 
+## Support examples
+### Protecting my personal space
+By sitting or lying next to me Nayla prevents people from passing by too closely.
+<!-- * include image where nayla blocks -->
+
+<!-- am I allowed to show something like this?
+<figure>
+    <img src="/PAS_personal_space.png" widt="300" height="300" />
+    <figcaption>[Source](https://www.housinglin.org.uk/_assets/Resources/Housing/OtherOrganisation/Design-for-the-mind-Neurodiversity-and-the-built-environment-Guide.pdf): PAS 6463:2022 Design for the mind – Neurodiversity
+and the built environment – Guide</figcaption>
+</figure>
+-->
+
+### Preventing or managing downs through applying deep pressure
+<figure>
+    <img src="/ponte.jpeg" widt="300" height="300" />
+</figure>
+
+### Outing
+Like the hidden disability sunflower lanyard also an assistance dog makes people aware that I have special needs.
+
+### Leading through difficult sensory situations
+* Out of a building or public transport vehicle
+* To a park bank for a break
+* To a seat in public transport
+
 # Inclusion
 I try to engage in promoting inclusion e.g. 
 * by holding presentations about work-life balance with autism and my pilot project at ETH.
@@ -116,6 +142,21 @@ You ask and listen about my experiences. You encourage me to get the support I n
 You acknowledge power and agency to act. Example: You speak up for autistic people, even when they're not in the room. You offer support to autistic people without them having to ask.
 
 It took a lot of pressure from me when I realized that it is not my job to educate others. I can choose when I want to do so and it is enough to try to get others from one step to the next. No need to try to push them to the end. 
+
+### Day 9 - Autigender
+
+I believe my autism shapes my gender quite a bit. I disclosed some on Instagram but on the webpage I don't feel comfortable with that (yet). Instead here some links to ressources:
+* [What is Gender?](https://www.geschlechter-radar.org/en/)
+<figure>
+    <img src="/Geschlechter-Radar-norm-expan-EN.png" widt="300" height="300" />
+    <figcaption>Normative and Expansive Expressions. Source: www.geschlechter-radar.org</figcaption>
+</figure>
+
+
+* [What is Autigender?](https://lgbtqia.wiki/wiki/Autigender)
+
+
+
 
 # Ressources
 

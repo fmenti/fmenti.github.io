@@ -19,7 +19,7 @@ Diese Unterschiede können bei Kindern und Erwachsenen unterschiedlich aussehen.
 
 # Vertrausenhund (Assistenzhund)
 
-In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, eine sogenannter [Vertrauenshund](vertrauenshund.ch), von der [Blindenhundeschule Liestal](https://www.blindenhund.ch).
+In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, ein sogenannter [Vertrauenshund](vertrauenshund.ch), von der [Blindenhundeschule Liestal](https://www.blindenhund.ch).
 
 <figure>
     <img src="/Nayla.jpg" widt="300" height="300" />
@@ -31,6 +31,11 @@ Ich versuche mich für inklusion einzusetzen z.B.
 * durch Vorträge halten zu work-life balance mit Autismus und meinem Pilotprojekt an der ETH.
 
 * Autismus Akzeptanz Monat Challenge 2025 durch Instagram Posts (mehr dazu bald)
+Im 2025 habe ich an der Autismus Akzeptanz Monat Herausforderung auf Instagramm teilgenommen. Bald werde ich hier einige Eindrücke davon publizieren. Auf der englischen version dieser Webseite sind bereits einige zu sehen. Alle posts können auf meinem [Instagram Account](https://instagram.com/estrellamenti/) angesehen werden. 
+<figure>
+    <img src="/AAMC.jpeg" widt="300" height="300" />
+</figure>
+
 
 # Links
 
