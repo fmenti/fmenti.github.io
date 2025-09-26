@@ -150,9 +150,13 @@ Ich habe meiner Katze auch Zähneputzen und Krallenschneiden tolerieren antraini
 
 Meine 15 jährige Katze hat unter anderem fortgeschrittene chronische Niereninsuffizienz. Dies ist eine progressive Erkrankung und ich kann ihr dadurch helfen, dass ich ihr Flüssigkeit unter die Haut spritze. Das Flüssigkeit spritzen mache ich mittlerweile seit Monaten täglich und es läuft problemlos, das hätte ich mir früher nie gedacht. Hierzu darf meine Katze aus einer umfunktionierten Silikonbürste Leckerli zwischen den Noppen hinausschlecken. Währenddessen Spritze ich ihr unter die Haut was sie oft mit einem kleinen Schmerzlaut kommentiert, sie jedoch nicht hindert, weiter sich mit den Leckerli zu befassen. Am Anfang war das natürlich schwieriger. Estrella hatte nicht verstanden, wieso ich ihr Schmerzen zufüge und jeweils mit schnappen kommentiert, dass ich damit aufhören solle. Natürlich hatte auch ich wenig Übung im Spritze geben und es wahr wahrscheinlich schmerzhafter. Mein Ziel war in den ersten Wochen einfach, diese Routine mit Leckerli und Spritzversuch zu etablieren, und noch gar nicht eine gewisse menge Flüssigkeit in die Katze reinbekommen. Mit der Zeit hat Estrella gelernt, dass nach dem ersten Schmerz gar nicht mehr entsteht. Auch wenn ich mal die Spritze leicht bewegen muss, um den Flüssigkeitsfluss zu verbessern kommentiert sie das zwar mit Schmerzlaut, aber hauptsächlich um mir zu kommunizieren, dass ich extra Leckerli nachlegen muss, weil sie sonst die Kooperation bald abbricht. Mittlerweile setzt sich meine Katze schon in Erwartungshaltung bereit, wenn ich die Spritze hervornehme. Meine Rückschlüsse daraus: Regelmässige Spritzen sind nicht sonderlich schlimm für meine Katze. Der Schmerz an sich kann gut mit Leckerli ausbalanciert werden, vor allem durch ihr Wissen, dass der Schmerz bald vorbei geht und ich ihre Kommunikation ernst nehme.
 
-#### An der Leine gehen
+#### An der Leine gehen {#Katzenspaziergang}
 
 Für meine Katze ist der Spaziergang an der Leine ein Abenteuer im Vergleich zu der Zeit, die sie im Haus verbringen muss. Ich benutze eine Leine statt sie dort laufen zu lassen wo sie will weil ich in einem Vorort wohne. Mit der Leine kann ich verhindern, dass Estrella in gefährliche Situationen mit Autos oder Hunden gerät. Ich poste Bilder von meinen Katzenspaziergängen auf [Instagram](https://instagram.com/estrellamenti/). 
+
+<figure>
+    <img src="/leashwalking.jpeg" widt="300" height="300" />
+</figure>
 
 ##### Ausrüstung
 Bitte setze deine Katze nicht einfach den folgenden Gegenständen aus. Sie müssen langsam und positiv eingeführt werden.

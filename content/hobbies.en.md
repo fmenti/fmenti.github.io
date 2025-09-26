@@ -148,6 +148,10 @@ Training your cat to tolerate clipping back its nails is very useful for when sh
 
 For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs. I post pictures of my cat walks on [Instagram](https://instagram.com/estrellamenti/).
 
+<figure>
+    <img src="/leashwalking.jpeg" widt="300" height="300" />
+</figure>
+
 ##### Equipment
 
 Please don't just expose your cat to the following objects. They need to be introduced slowly and positively.

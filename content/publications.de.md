@@ -10,7 +10,7 @@ hide_title: true
 * Menti F.  et al: Database of Candidate Targets for the LIFE Mission
 ([NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract), [arxiv](https://arxiv.org/abs/2410.23892))
 
-# Arbeit
+# Arbeit {#pub_arbeit}
 
 Nachdem ich meinen Master an der ETH Zürich abgeschlossen habe, bin ich nun bei [Workaut](https://workaut.ch/) angestellt, das ein Programm zur Integration von Autisten am Arbeitsplatz anbietet. Im Artikel des ETH-Community-Magazins können Sie mehr darüber lesen: 
 

@@ -16,6 +16,37 @@ Autistische Menschen entwickeln sich anders als nicht autistische Menschen. Auti
 
 Diese Unterschiede können bei Kindern und Erwachsenen unterschiedlich aussehen."
 
+## Meine autistischen Herausforderungen
+
+### Situativer Mutismus
+Ich habe situativen Mutismus. Das heisst ich bin nicht immer fähig zu sprechen.  Für solche Situationen benutze ich Kommunikationskarten:
+
+Der Mutismus kann einerseits als Vorstufe eines Downs (autistischen Zusammenbruch) auftreten. 
+
+|     ||
+|--------|------|
+|    ![](/ass_cards/gefühlswirrwarr_de.jpeg) |  ![](/ass_cards/gefühlswirrwarr_en.jpeg)|
+
+<!-- bild darf ich streicheln karte -->
+
+Andererseits kann es sein, dass ich meine meine Energie sparen muss für etwas wichtigeres. Mich mit Menschen unterhalten, vor allem solchen die ich nicht kenne, kostet mich viel Energie. Z.B. antworte ich bewusst nicht wenn ich im ÖV angesprochen werde. Ich weiss, dass die Situation für mich schon schwierig genug ist und ich ein Down riskiere, wenn ich nicht möglichst viel Energie spare. In so einem Fall nutze ich die Visitenkarte vom VBM die der Person mitteilt, dass ich Autismus habe und der Vertrauenshund mein Assistenzhund ist. Die Karte ist auch in anderen Situationen nützlich z.B. wenn mir der Zutritt zu Einrichtungen verwehrt wird.
+
+|     ||
+|--------|------|
+|    ![](/ass_cards/VBM_karte_vs.jpeg) |  ![](/ass_cards/VBM_karte_rs.jpeg)|
+
+### Down (autistischer Zusammenbruch)
+Wenn meine Energiereserven aufgebraucht sind falle ich in ein Down. Das passiert mir ca. alle paar Monate. Das bedeutet ich habe vor Überforderung tränen bekommen und war dann für ein paar Tage total erschöpft. Vergleichbar wie man sich fühlt nach einer starken Grippe. Man ist zwar wieder gesund aber der Körper ist noch total geschlaucht. Niemand hat Schuld an meinem Down, es war einfach Pech. Ich teile mir meine Energie immer vorsichtig ein aber man kann im Leben nicht alles kontrollieren z.B. wenn ein Bus vollgestopft ist weil der vorherige ausfiel.
+
+## Meine autistischen Stärken
+Das kurze [Youtube Video von AUIO](https://www.youtube.com/watch?v=o-7l4Rla1WI) erklärt meiner Ansicht nach gut einige autistische Stärken.
+
+* Detailfokus: Mega nützlich in meiner Arbeit weil ich Fehler im Code schnell finde. Cool wenn ich in der Freizeit alle möglichen Tiere und Tierspuren entdecke.
+* Ehrlichkeit: Geschätzt von meinen Freunden da es dadurch einfacher ist unsere gegenseitigen Erwartungen und Bedürfnisse abzugleichen. 
+* Individualität: Ich gehe meinen eigenen Weg, oft muss ich dafür etwas in der Gesellschaft verändern. Das macht es anderen einfacher einen ähnlichen oder ihren eigenen Weg zu gehen. Beispiele [Pilotprojekt Arbeit]({{< ref "publications.de.md#pub_arbeit" >}}) und [Katzenspaziergang](hobbies.de.md#Katzenspaziergang).
+
+
+
 
 # Vertrausenhund (Assistenzhund)
 
