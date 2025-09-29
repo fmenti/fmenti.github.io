@@ -3,7 +3,7 @@ title: Autismus
 hide_title: true
 ---
 
-# Was ist Autismus?
+## Was ist Autismus?
 
 Mir gefällt die Beschreibung von [Refrainingautism](https://reframingautism.org.au/about-autism/) sehr gut:
 
@@ -16,9 +16,9 @@ Autistische Menschen entwickeln sich anders als nicht autistische Menschen. Auti
 
 Diese Unterschiede können bei Kindern und Erwachsenen unterschiedlich aussehen."
 
-## Meine autistischen Herausforderungen
+### Meine autistischen Herausforderungen
 
-### Situativer Mutismus
+#### Situativer Mutismus
 Ich habe situativen Mutismus. Das heisst ich bin nicht immer fähig zu sprechen.  Für solche Situationen benutze ich Kommunikationskarten:
 
 Der Mutismus kann einerseits als Vorstufe eines Downs (autistischen Zusammenbruch) auftreten. 
@@ -35,10 +35,10 @@ Andererseits kann es sein, dass ich meine meine Energie sparen muss für etwas w
 |--------|------|
 |    ![](/ass_cards/VBM_karte_vs.jpeg) |  ![](/ass_cards/VBM_karte_rs.jpeg)|
 
-### Down (autistischer Zusammenbruch)
+#### Down (autistischer Zusammenbruch)
 Wenn meine Energiereserven aufgebraucht sind falle ich in ein Down. Das passiert mir ca. alle paar Monate. Das bedeutet ich habe vor Überforderung tränen bekommen und war dann für ein paar Tage total erschöpft. Vergleichbar wie man sich fühlt nach einer starken Grippe. Man ist zwar wieder gesund aber der Körper ist noch total geschlaucht. Niemand hat Schuld an meinem Down, es war einfach Pech. Ich teile mir meine Energie immer vorsichtig ein aber man kann im Leben nicht alles kontrollieren z.B. wenn ein Bus vollgestopft ist weil der vorherige ausfiel.
 
-## Meine autistischen Stärken
+### Meine autistischen Stärken
 Das kurze [Youtube Video von AUIO](https://www.youtube.com/watch?v=o-7l4Rla1WI) erklärt meiner Ansicht nach gut einige autistische Stärken.
 
 * Detailfokus: Mega nützlich in meiner Arbeit weil ich Fehler im Code schnell finde. Cool wenn ich in der Freizeit alle möglichen Tiere und Tierspuren entdecke.
@@ -48,7 +48,7 @@ Das kurze [Youtube Video von AUIO](https://www.youtube.com/watch?v=o-7l4Rla1WI) 
 
 
 
-# Vertrausenhund (Assistenzhund)
+## Vertrausenhund (Assistenzhund)
 
 In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, ein sogenannter [Vertrauenshund](vertrauenshund.ch), von der [Blindenhundeschule Liestal](https://www.blindenhund.ch).
 
@@ -57,7 +57,7 @@ In meinem Alltag unterstützt mich mein Assistenzhund für erwachsene Autisten, 
 </figure>
 
 
-# Inklusion
+## Inklusion
 Ich versuche mich für inklusion einzusetzen z.B. 
 * durch Vorträge halten zu work-life balance mit Autismus und meinem Pilotprojekt an der ETH.
 
@@ -68,7 +68,7 @@ Im 2025 habe ich an der Autismus Akzeptanz Monat Herausforderung auf Instagramm 
 </figure>
 
 
-# Links
+## Links
 
 * Buch Maria Zimmermann - Anders nicht falsch
 * [Enableme Autismus](https://www.enableme.ch/de/behinderungen/autismus-die-andere-wahrnehmung-der-welt-83)
