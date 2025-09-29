@@ -6,10 +6,12 @@ hide_title: true
 # Science
 
 * Menti F.  et al: The LIFE Target Star Database LIFETD, TAP-published
-  table set, doi:[10.21938/ke_e6lzO_jjX_vzvVIcwZA](https://dc.zah.uni-heidelberg.de/voidoi/q/lp/custom/10.21938/ke_e6lzO_jjX_vzvVIcwZA)
+  table set, doi:[10.21938/ke_e6lzO_jjX_vzvVIcwZA](https://dc.zah.uni-heidelberg.de/voidoi/q/lp/custom/10.21938/ke_e6lzO_jjX_vzvVIcwZA).
 
 * Menti F.  et al: Database of Candidate Targets for the LIFE Mission
-([NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract), [arxiv](https://arxiv.org/abs/2410.23892))
+([NASA/ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract), [arxiv](https://arxiv.org/abs/2410.23892)).
+
+* Menti F.: Franziska Menti - LIFE target data base update, [youtube video](https://www.youtube.com/watch?v=VqYf2tvb5OQ).
 
 # Employment
 
@@ -23,6 +25,6 @@ In my day to day live I am supported by my assistance dog for adult autistic peo
 
 * Célia Schwank and Franziska Menti, ["Erlebnisbericht Estrella, Nayla und ich"](https://www.blindenhund.ch/site/assets/files/1213/vbm_magazin_2024_2_95_druckbogen_web.pdf), VBM Magazin, Summer 2024, page 14.
 
-* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Ein Haushalt mit Vertrauenshund und Katze](https://www.swiss-abilities.ch/de/c/ein-haushalt-mit-vertrauenshund-und-katze.57254)
+* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Ein Haushalt mit Vertrauenshund und Katze](https://www.swiss-abilities.ch/de/c/ein-haushalt-mit-vertrauenshund-und-katze.57254).
 
-* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Dank dem Vertrauenshund zu mehr Selbstbestimmung](https://www.swiss-abilities.ch/de/c/dank-dem-vertrauenshund-zu-mehr-selbstbestimmung.56717)
+* Swiss Abilities 2024 Story, Blindenhundeschule Liestal, [Dank dem Vertrauenshund zu mehr Selbstbestimmung](https://www.swiss-abilities.ch/de/c/dank-dem-vertrauenshund-zu-mehr-selbstbestimmung.56717).

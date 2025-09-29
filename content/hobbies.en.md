@@ -144,6 +144,19 @@ Training your cat to tolerate clipping back its nails is very useful for when sh
     <img src="/clawclippingzoom.jpeg" widt="300" height="300" />
 </figure>
 
+##### Estrella's needed medical care
+While the above is more for training to keep your cat in general good health, Estrella does have quite some chronic illnesses that require medical care. Specifically Estrella needs daily administration of subcutaneous fluids and pills. Giving those with consent of Estrella was quite the training journey. I learned most of it from [Tanya's Comprehensive Guide to Feline Chronic Kidney Disease](https://felinecrf.org/fluid-therapy/subutaneous-fluids-giving-set/) in case of subcutaneous fluids and from [@pixel.n.friends](https://www.instagram.com/pixel.n.friends/) for pills. Of course I do those things only with the approval of my vet.
+
+<figure>
+    <img src="/medical_care/subq_far.jpg" widt="300" height="300" />
+</figure>
+
+<figure>
+    <img src="/medical_care/subq_close.jpg" widt="300" height="300" />
+</figure>
+
+In addition Estrella needs frequent (every few weeks or months) urine, blood and blood pressure checks. The later two I also managed to get trained successfully. In the start we had to sedate Estrella for drawing blood but now we only need a mussle (might not even need that one any longer but better save than sorry) and lots of treats. I cover some of those training steps on my [Instagram](https://www.instagram.com/p/DOF2PoKAoOx/) as well.
+
 #### Leash Walking
 
 For my cat the walk on the leash is an adventure compared to the time she has to spend indoors. I use a leash in contrast to letting her walk where she wants to because I live in a suburb environment. The leash lets me prevent Estrella from getting into dangerous situations with cars or dogs. I post pictures of my cat walks on [Instagram](https://instagram.com/estrellamenti/).
