@@ -1,10 +1,8 @@
 ---
 title: "Hobbies"
 math: true
-hide_title: true
+hide_title: false
 ---
-
-# My Hobbies
 
 I love training animals (especially my cat and my dog), reading fantasy or scify books (especially those from Brandon Sanderson and Michael Sullivan) and playing games (D&D / Pathfinder, tabletop games, computer games,...).
 

@@ -1,6 +1,6 @@
 ---
 title: Autismus
-hide_title: true
+hide_title: false
 ---
 
 ## Was ist Autismus?
