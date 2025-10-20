@@ -10,4 +10,4 @@ Ein Grossteil meiner Forschung wird durch die Konzeption und Implementierung der
 
 In meiner Freizeit beschäftige ich mich gerne mit Tieren🐕, spiele (Brett-)Spiele und helfe unserer Gesellschaft, inklusiver zu werden!
 
-Scheue dich nicht mit mir Kontakt aufzunehmen!
+Nehmen Sie gerne mit mir Kontakt auf!

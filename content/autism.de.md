@@ -67,6 +67,10 @@ Im 2025 habe ich an der Autismus Akzeptanz Monat Herausforderung auf Instagramm 
     <img src="/AAMC.jpeg" widt="300" height="300" />
 </figure>
 
+## Sunflower Lanyard
+
+Ich trage draussen oft meinen Sunflower Lanyard Badge. [Autismus Schweiz](https://www.autismus.ch/sunflower/) hat dazu eine gute Informationsseite. 
+
 
 ## Links
 
@@ -74,5 +78,6 @@ Im 2025 habe ich an der Autismus Akzeptanz Monat Herausforderung auf Instagramm 
 * [Enableme Autismus](https://www.enableme.ch/de/behinderungen/autismus-die-andere-wahrnehmung-der-welt-83)
 <!-- * see others on google drive -->
 * [Podcast Kontrast - Leben mit Behinderung und Krankheit](https://www.ost.ch/de/die-ost/departemente/departement-soziale-arbeit/kulturzyklus/podcast-serie)
+* [Stille Stunde](https://www.stille-stunde.com/presse/)
 
 

@@ -12,7 +12,7 @@ On my daily cat walks I often get asked, how one teaches a cat to walk on a leas
     <img src="/highfive0.jpg" widt="300" height="300" />
 </figure>
 
-## Cat Training Guide
+## Cat Training Guide {#cat_training_guide}
 
 ### Introduction
 Let's first cover the four most important questions about what this guide is about:
