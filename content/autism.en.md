@@ -216,7 +216,94 @@ Adjustments for me at work:
 
 I recommend to check out [neurodivergent_lou's insta post regarding this topic](https://www.instagram.com/p/DEQEloPspom/?img_index=1). I copied some of her points because they were so well formulated.
 
-Also this [article on the topic](www.tagblatt.ch/leben/welt-autismus-tag-autismus-im-arbeitsleben-zwischen-anpassungsdruck-und-dem-wunsch-nach-offenheit-ld.2752685) I found very nice (though it is in German).
+Also this [article on the topic](https://www.tagblatt.ch/leben/welt-autismus-tag-autismus-im-arbeitsleben-zwischen-anpassungsdruck-und-dem-wunsch-nach-offenheit-ld.2752685) I found very nice (though it is in German).
+
+####  Day 17 - Tips for classrooms
+
+My school days are long past. I didn’t have my autism diagnosis for most of it. Still I did profit a lot when teachers considered my needs. And had to work through the rest of the situations with my therapist as they did leave wounds that hadn’t healed by the time I grew up.
+
+I recently read a great article in German about this, specifically concerning autistic girls:
+https://neuro-spectrum.ch/wie-schule-autistische-maedchen-besser-unterstuetzen-kann/
+
+It’s tipps for classrooms are:
+- Having a quiet room to retreat
+- Being allowed to stim
+- Having as much autonomy as possible
+
+One additional point is being believed. People usually didn’t notice that I was struggling or didn’t believe me when I was saying so. I have been gaslit by so many teachers when telling them that it was too loud for me and they just responded that that was not true. Watching movies or music class can be so painful. In primary school my meltdowns were just treated as me needing to learn to not be so sensitive and that crying wouldn’t solve problems for me. I tried to follow that advice, I tried very hard, it just didn’t work. It only thought me that my emotions were my enemies because they made me do things others didn’t like. It was only during the last few years that I learned the use of emotions and how to deal with them. This has made a huge difference in my well-being.
+
+To end on a positive note I want to thank all my teachers who helped me get through this hard time by discussing science with me. This glimpses touching my special interest (physics, nature) kept me going. A big thanks also to my school friends (I did have a few of them) for fighting the storm of daily live along my side at that time.
+
+####  Day 19 - This is how I stim
+
+<figure>
+    <img src="/luchs.png" widt="300" height="300" />
+    <figcaption>Drawing example.</figcaption>
+</figure>
+
+<figure>
+    <img src="/estrellacuddle.png" widt="300" height="300" />
+    <figcaption>Petting my cat Estrella.</figcaption>
+</figure>
+
+Stimming is awesome. It is fun and calms me down. One of the few things that charges my batteries. I like visual stimming quite a bit. I might get mesmerized by patterns in plants or some other geometric detail. Drawing also calms me down. It usually starts with abstract lines where I just need to get some movement out of me. Once I calmed enough I will then turn those lines into something more realistic. Of course, as mentioned, my favorite stimming is petting my pets. This is awesome with my assistance dog because I always have her with me for it.
+
+####  Day 20 - Autistic burnout
+
+<figure>
+    <img src="/autisticburnout.png" widt="300" height="300" />
+</figure>
+
+I experienced autistic burnout already a couple of times. First as a depression in my early twenties. Which ultimately lead to me getting my autism diagnosis. Now it is something I usually experience for a few weeks each year. Each day I fight to not have a down and each down I fight to not have it turn into a burnout. With my expanded supporter network I managed to decrease the frequency of downs from once a month in my teens to a handful a year now.
+
+From the outside I look like a successful autistic person (I have a job on my special interest, I have finances for owning pets,...). Indeed I feel grateful that I am able to get as much help as I do because I know many autistic people who don’t. Though my special interest on inclusion developed because I feel if my constant struggle and tethering on the edge is what other autistic people dream to be able to have in the future we still have a long way to go as society.
+
+During an autistic burnout I need professional help. Unfortunately in Switzerland it is very unlikely that you get it. A good article explaining this in German is https://www.humanrights.ch/de/news/no-weiblicher-autismus-endometriose-frauenspezifische-diagnosen-iv-ernst . The knowledge about invisible disabilities, especially in women, just istn’t around in staff of stationary mental health institutions and financial help providers. You need to know exactly what your rights are and have the strength to enforce them to get the help you need. Unfortunately, during a burnout, that is something you often just don’t have the energy for.
+
+####  Day 21 - Autistic self-care
+
+<figure>
+    <img src="/beingenoughtemplate.png" widt="300" height="300" />
+</figure>
+
+I believe the big amount of time for selfcare is one of my main invisible needs most people are not aware of.
+I often suffer from executive dysfunction. This means it is hard to think clearly and remember what I should do. So I made myself templates for specific recurring difficult situation. That way I can look up what I should be doing when I can’t remember what helped last time. I collected my templates into my own manual for myself. Like if my dishwasher gives me an error message of needing more salt I will look up in the manual what I need to do to fix the issue. The same way if my mind tells me that I am suffering again from my mental illness of “feeling not enough” I look in my self manual and read the sentences that usually resolve the issue (see example image).
+Notice the references at the end for looking up further templates if the problem persists. Also notice that I switch between English and German often. My native language is German but often emotional topics I find easier to address in English. It gives me a kind of distance between my intense emotions and the topic.
+
+####  Day 22 - Safe/Same foods
+I eat the same thing each day for breakfast and dinner. Making decisions takes energy and this way I don’t need to spend any on what to eat then. I do prefer variation in food but I incorporate that through lunch and snacks. Also I found out I can just increase or decrease the spoonfuls of muesli to keep my weight stable.
+A long time I did not like eating vegetables. They each smelled like a different kind of detergent / soap. Some years ago I purposefully desensitized myself to eating vegetables by eating a tiny amount with each meal. Nowadays I even like eating vegetables, though they don’t taste of much to me any longer.
+
+####  Day 23 - This is how I communicate
+
+Written communication takes less energy for me than verbal one. So I often prefer chatting, writing emails or letters when I need my energy for other things.
+Phone calls consume a lot of energy for me (5min call means 3 hours recovery time). Therefore I try to avoid it. I have a phone assistance person who does them for me and writes me afterwards what I need to know. I do train myself to eventually being able to do phone calls with less energy loss by doing almost daily voice messages with my family. (At least, before my new chronic illness took up the energy for it.)
+I got used to doing videocalls during corona lockdown time. As long as I can see the other person this works quite well for me. In contrast to phone calls I can get nonverbal clues through body language which let me know when it is my turn to talk or when something I said caused confusion.
+Sometime I communicate with noises. Mostly those mean something like “how are you doing?”. The noises I make for it are “blub”, “hmm” or “mmm” (in raising stair of notes). The first two I do with family and friends, the last one I do with Estrella. It is the only sound I react to, because she is very vocal. As soon as one reacts to her meows she will start to do them more often. And I prefer quiet sounds so I trained her to use the mentioned one. It originates from how a cat mother talks to her kittens. Estrella even did it once while dreaming. I found that sooo cute! (Because I am almost certain she dreamed of greeting me then <3)
+With my pets I mostly communicate through body language and gestures. Of course I also use words as signals and I also have some noises meaning increase or decrease your speed as well as “think again, I disagree with what you currently do”.
+
+####  Day 24 - Autistic socialising
+I reserve special slots each week for socializing with friends and family. I also interact with each cat I meet and most of the other animals, too.
+
+####  Day 25 - Three tips for allies
+1. Believe us. We meet so many people that don’t believe us so we cherish those that do. It helps heal wounds from gaslighting, too.
+2. Use special interests to connect to autistic people. They are awesome present themes.
+3. Stand up for us even when we are not around. e.g. educate about autism, assistance dogs, inclusion,…
+
+####  Day 26 - Autistic people to follow
+(coming soonish)
+
+####  Day 27 - Autistic Pride
+(coming soonish)
+
+####  Day 28 - Coming out as Autistic
+(coming soonish)
+
+####  Day 29 - Autistic community
+(coming soonish)
+
+####  Day 30 - Celebrate yourself
+(coming soonish)
 
 
 ## Ressources
