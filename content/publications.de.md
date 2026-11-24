@@ -19,6 +19,10 @@ Nachdem ich meinen Master an der ETH Zürich abgeschlossen habe, bin ich nun bei
 Ich habe auch schon Weiterbildungen zum Thema Arbeit und Autismus gegeben.
 * Iris Köppel, Mona Hepp und Franziska Menti,  Berufliche Teilhabe Gestalten, Blick darüber hinaus - Work-Life-Balance und Weiterentwicklung, Weiterbildungsreihe von Workaut, 17.01.2023 ([HTML](https://workaut.ch/Weiterbildung/Kurskalender/index.php/;focus=HSTPTP_cm4all_com_widgets_EventCalendar_6243917&path=?m=d&a=20220315155928-6819&cp=1), [PDF](https://www.dropbox.com/scl/fi/2utu5jjsszv0tibuekyvu/Kursauschreibung_berufliche-Teilhabe_3.pdf?rlkey=wvcyctmt3iuzxncnijte09lyc&st=uincs3nl&dl=0)).
 
+* ais Arbeitsintegration von Personen im Autismus-Spektrum (2025 [HTML](https://arbeitsintegrationschweiz.ch/de/event/arbeitsintegration-von-personen-mit-autismus-spektrum/), [PDF](https://arbeitsintegrationschweiz.ch/wp-content/uploads/2025/06/250616_Ausschreibung_Autimus.pdf) und 2026 [HTML](https://arbeitsintegrationschweiz.ch/de/event/arbeitsintegration-von-personen-im-autismus-spektrum/))
+
+* VISENTI [Verband Schulführung Schweiz](https://visenti.ch/), Fachtagung 2026 Ir(r)land Neurodivergenz ([HTML](https://visenti.ch/themen/fachtagung/teilnehmen-2026.html), [Flyer](https://visenti.ch/userdata/files/visenti-fachtagung-flyer-final.pdf)), Workshop von Mona Hepp und Franziska Menti, "Autismus: Man sieht nur, was man versteht - ein Perspektivenwechsel, der Schule verändert"
+
 # Vertrauenshund
 
 * Célia Schwank und Franziska Menti, ["Erlebnisbericht Estrella, Nayla und ich"](https://www.blindenhund.ch/site/assets/files/1213/vbm_magazin_2024_2_95_druckbogen_web.pdf), VBM Magazin, Sommer 2024, Seite 14.
@@ -31,5 +35,6 @@ Ich habe auch schon Weiterbildungen zum Thema Arbeit und Autismus gegeben.
 
 # Sonstges
 
+* Zwei Kapitel im Buch von Sharleen Wüest [Unsichtbar - Frauen hinter der Maske - Vom Leben mit Autismus](https://elfundzehnverlag.lesestoff.ch/de/detail/ISBN-9783907243091/W%C3%BCest-Sharleen/Unsichtbar).
 
-* Vortrag über meine Vorlagen in der KnowTism Reihe des [Autistinnen Netzwerkes](https://autistinnen.ch/) [PDF](https://www.dropbox.com/scl/fi/zx7kymhb3d3pm1qrlk8ag/FlyerAutistinnenKnowtism.pdf?rlkey=8ww32ooagvc42bj87atgvakz6&dl=0)).
+* Vortrag über meine Vorlagen in der KnowTism Reihe des [Autistinnen Netzwerkes](https://autistinnen.ch/), [Flyer](https://www.dropbox.com/scl/fi/zx7kymhb3d3pm1qrlk8ag/FlyerAutistinnenKnowtism.pdf?rlkey=8ww32ooagvc42bj87atgvakz6&dl=0).
